@@ -6,7 +6,7 @@
 Este práctica ha sido desarrollado en la asignatura de **Inteligencia Artificial Avanzada** del **_Grado en Ingeniería Informática_** de la **ULL**.
 
 ### Miembros del grupo
-,Kevin (alu0100@ull.edu.es)  
+Rivero Martin, Kevin Miguel (alu0100789461@ull.edu.es)  
 Paz Méndez, Germán (alu0100503647@ull.edu.es)
 
 ## Descripción de la práctica: Procesamiento del lenguaje natural
