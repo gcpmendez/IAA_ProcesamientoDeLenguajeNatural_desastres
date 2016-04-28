@@ -20,7 +20,18 @@ public class Parser {
 			PrintWriter pw = new PrintWriter(fichero);
 			
 			while ((line = buf.readLine()) != null) {
-				line = line.substring(6,line.length());						// Eliminamos "Texto:" del string
+				line = line.substring(6,line.length());					// Eliminamos "Texto:" del string
+				line = line.replaceAll("#.*", "");						// Eliminamos "#x" del string
+				line = line.replaceAll("@.+", "");						// Eliminamos "@x" del string
+				line = line.replaceAll("http.+", "");					// Eliminamos enlaces
+				line = line.replaceAll("[\\[|\\]|=|%|+|$|\\-|/|;|)|(|.|,|*|!|?|{|}|~|'|:|_]+", "");		
+																		// Eliminamos símbolos de puntuación del string
+				line = line.replaceAll("&amp", "");						// Eliminamos "&amp" del string
+				line = line.replaceAll("&gt", "");						// Eliminamos "&gt" del string
+				line = line.replaceAll("&lt", "");						// Eliminamos "&lt" del string
+				//line = line.replaceAll("[$]", "");					// Eliminamos "$$+" del string
+				line = line.replaceAll("\\d+.*", "");						// Eliminamos "&lt" del string
+				
 				StringTokenizer tokensLine = new StringTokenizer(line);
 				while (tokensLine.hasMoreTokens()) {
 					String token = tokensLine.nextToken();
@@ -33,12 +44,10 @@ public class Parser {
 			}
 			
 			pw.println("Número de palabras:" + map.size());     // Número de palabras: <número entero>
-			String extract = "";
 			Iterator<String> itr = map.keySet().iterator();
 			while (itr.hasNext()) {     						
-				extract += (String) itr.next() + " ";
+				pw.println("Palabra:" + (String) itr.next());	// Palabra: <cadena>
 			}
-			pw.println("Palabra:" + extract);					// Palabra: <cadena>
 			buf.close();
 			pw.close();
 			
