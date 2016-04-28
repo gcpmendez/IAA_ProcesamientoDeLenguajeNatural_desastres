@@ -1,6 +1,4 @@
-Número de palabras:15085
-Palabra:A
-Palabra:AB
+Número de palabras:14663
 Palabra:ABC
 Palabra:ABCs
 Palabra:ABIA
@@ -11,7 +9,6 @@ Palabra:ACCIDENT
 Palabra:ACDelco
 Palabra:ACTUAL
 Palabra:ACTUALLY
-Palabra:AD
 Palabra:ADHD
 Palabra:ADVISORY
 Palabra:AEG
@@ -22,14 +19,12 @@ Palabra:AGDQ
 Palabra:AGENCY
 Palabra:AHH
 Palabra:AHMazing
-Palabra:AI
 Palabra:AIAs
 Palabra:AIR
 Palabra:AKFNEJF
 Palabra:AKILAH
 Palabra:AKs
 Palabra:AKx
-Palabra:AL
 Palabra:ALERT
 Palabra:ALGAE
 Palabra:ALL
@@ -37,7 +32,6 @@ Palabra:ALLOOSH
 Palabra:ALMOST
 Palabra:ALOT
 Palabra:ALc
-Palabra:AM
 Palabra:AMA
 Palabra:AMAZING
 Palabra:AMAZON
@@ -45,7 +39,6 @@ Palabra:AMBULANCE
 Palabra:AMCX
 Palabra:AMERICA
 Palabra:AMERICANS
-Palabra:AN
 Palabra:ANCIENT
 Palabra:AND
 Palabra:ANGEL
@@ -57,7 +50,6 @@ Palabra:ANOTHER
 Palabra:ANSWER
 Palabra:ANY
 Palabra:ANYONE
-Palabra:AP
 Palabra:APC
 Palabra:APCPDP
 Palabra:APD
@@ -65,7 +57,6 @@ Palabra:APGA
 Palabra:APOCALYPSE
 Palabra:APPLICATIONS
 Palabra:AQUA
-Palabra:AR
 Palabra:ARA
 Palabra:ARE
 Palabra:AREA
@@ -76,7 +67,6 @@ Palabra:ARSONIST
 Palabra:ART
 Palabra:ARTIST
 Palabra:ARY
-Palabra:AS
 Palabra:ASAP
 Palabra:ASB
 Palabra:ASK
@@ -84,21 +74,17 @@ Palabra:ASKING
 Palabra:ASS
 Palabra:ASSIST
 Palabra:ASSOCIATED
-Palabra:AT
 Palabra:ATL
 Palabra:ATTACK
-Palabra:AU
 Palabra:AUBREYS
 Palabra:AUDIENCE
 Palabra:AUDIO
 Palabra:AUNTS
 Palabra:AUTH
 Palabra:AUTOMATIC
-Palabra:AV
 Palabra:AVALANCHE
 Palabra:AVERTED
 Palabra:AVOCADO
-Palabra:AW
 Palabra:AWAKENINGS
 Palabra:AWAY
 Palabra:AWFUL
@@ -197,7 +183,6 @@ Palabra:Agony
 Palabra:Agreed
 Palabra:Agricultural
 Palabra:Aguero
-Palabra:Ah
 Palabra:Ahamedis
 Palabra:Ahead
 Palabra:Ahrar
@@ -216,7 +201,6 @@ Palabra:Ajmal
 Palabra:Aka
 Palabra:Akito
 Palabra:Akwa
-Palabra:Al
 Palabra:Alabama
 Palabra:Alan
 Palabra:Alarming
@@ -267,7 +251,6 @@ Palabra:Altamonte
 Palabra:Alton
 Palabra:Alves
 Palabra:Always
-Palabra:Am
 Palabra:Amanda
 Palabra:Amase
 Palabra:Amazing
@@ -292,7 +275,6 @@ Palabra:Amp
 Palabra:Amritsar
 Palabra:Amsal
 Palabra:Amsterdam
-Palabra:An
 Palabra:Ana
 Palabra:Anakin
 Palabra:Analog
@@ -396,7 +378,6 @@ Palabra:Artifacts
 Palabra:Artificial
 Palabra:Arts
 Palabra:Artwork
-Palabra:As
 Palabra:Asad
 Palabra:Asbury
 Palabra:Ashdod
@@ -418,7 +399,6 @@ Palabra:Assembly
 Palabra:Associated
 Palabra:Asteroid
 Palabra:Astrakhan
-Palabra:At
 Palabra:Athens
 Palabra:Atlanta
 Palabra:Atlantic
@@ -466,7 +446,6 @@ Palabra:Ave
 Palabra:Avenue
 Palabra:Averted
 Palabra:Avery
-Palabra:Aw
 Palabra:Awards
 Palabra:Awareness
 Palabra:Away
@@ -475,11 +454,9 @@ Palabra:Awful
 Palabra:Awh
 Palabra:AxWave
 Palabra:Axegressor
-Palabra:Ay
 Palabra:Aya
 Palabra:Ayyo
 Palabra:Azeroth
-Palabra:B
 Palabra:BABA
 Palabra:BABIES
 Palabra:BACK
@@ -492,11 +469,8 @@ Palabra:BANKSTOWN
 Palabra:BARE
 Palabra:BATTLE
 Palabra:BAY
-Palabra:BB
 Palabra:BBC
-Palabra:BC
 Palabra:BCC
-Palabra:BE
 Palabra:BECAUSE
 Palabra:BECKARNLEY
 Palabra:BED
@@ -543,7 +517,6 @@ Palabra:BOX
 Palabra:BOY
 Palabra:BOYFRIEND
 Palabra:BOYS
-Palabra:BP
 Palabra:BRANT
 Palabra:BRAVO
 Palabra:BREAKING
@@ -566,7 +539,6 @@ Palabra:BUREN
 Palabra:BURNED
 Palabra:BURNING
 Palabra:BUT
-Palabra:BY
 Palabra:BYE
 Palabra:BYZ
 Palabra:Baan
@@ -630,7 +602,6 @@ Palabra:Baume
 Palabra:Bay
 Palabra:Bayelsa
 Palabra:BayelsaState
-Palabra:Be
 Palabra:Beach
 Palabra:Beached
 Palabra:Bean
@@ -778,7 +749,6 @@ Palabra:Bluedio
 Palabra:Bluetooth
 Palabra:Bluff
 Palabra:Blvd
-Palabra:Bo
 Palabra:Boat
 Palabra:Bobble
 Palabra:Bodies
@@ -944,10 +914,7 @@ Palabra:Buy
 Palabra:Buying
 Palabra:Buyout
 Palabra:Buzzing
-Palabra:By
 Palabra:Byproduct
-Palabra:C
-Palabra:CA
 Palabra:CABRILLO
 Palabra:CADFYI
 Palabra:CAKE
@@ -1015,13 +982,11 @@ Palabra:CLIMATE
 Palabra:CLIP
 Palabra:CLOSING
 Palabra:CLUB
-Palabra:CM
 Palabra:CMCSA
 Palabra:CMDR
 Palabra:CNBC
 Palabra:CNN
 Palabra:CNUA
-Palabra:CO
 Palabra:COAST
 Palabra:COLD
 Palabra:COLLAB
@@ -1046,7 +1011,6 @@ Palabra:COTE
 Palabra:COUNTER
 Palabra:COUNTY
 Palabra:COUSIN
-Palabra:CP
 Palabra:CPR
 Palabra:CRAZY
 Palabra:CREATED
@@ -1056,9 +1020,7 @@ Palabra:CRUSH
 Palabra:CRUSHED
 Palabra:CRUZ
 Palabra:CRYIBG
-Palabra:CS
 Palabra:CSX
-Palabra:CT
 Palabra:CTA
 Palabra:CTD
 Palabra:CTE
@@ -1067,7 +1029,6 @@ Palabra:CUISINE
 Palabra:CULINARY
 Palabra:CURFEW
 Palabra:CUTTER
-Palabra:CW
 Palabra:CYCLONE
 Palabra:Cabin
 Palabra:Cabinets
@@ -1174,7 +1135,6 @@ Palabra:Causes
 Palabra:Causing
 Palabra:Caution
 Palabra:Cave
-Palabra:Ce
 Palabra:Cedar
 Palabra:Cee
 Palabra:Celebrity
@@ -1308,7 +1268,6 @@ Palabra:Clots
 Palabra:Club
 Palabra:Clutch
 Palabra:Cmon
-Palabra:Co
 Palabra:CoD
 Palabra:Coaches
 Palabra:Coahuila
@@ -1529,7 +1488,6 @@ Palabra:Cyclonic
 Palabra:Cydia
 Palabra:Cyhi
 Palabra:Cyprus
-Palabra:D
 Palabra:DAL
 Palabra:DAMAGE
 Palabra:DAMAGENHS
@@ -1544,12 +1502,8 @@ Palabra:DART
 Palabra:DATE
 Palabra:DAY
 Palabra:DAYS
-Palabra:DB
-Palabra:DC
 Palabra:DCFD
-Palabra:DD
 Palabra:DDoS
-Palabra:DE
 Palabra:DEAD
 Palabra:DEATH
 Palabra:DEEP
@@ -1581,14 +1535,9 @@ Palabra:DISCONNECTED
 Palabra:DISGUSTING
 Palabra:DIVA
 Palabra:DIXIE
-Palabra:DJ
-Palabra:DK
 Palabra:DKHQgv
-Palabra:DL
 Palabra:DLH
 Palabra:DLL
-Palabra:DM
-Palabra:DO
 Palabra:DOCTOR
 Palabra:DOES
 Palabra:DOEs
@@ -1598,8 +1547,6 @@ Palabra:DOMINOS
 Palabra:DONT
 Palabra:DORETTE
 Palabra:DOWN
-Palabra:DQ
-Palabra:DR
 Palabra:DRIVE
 Palabra:DROUGHT
 Palabra:DROWNED
@@ -1607,7 +1554,6 @@ Palabra:DROWNING
 Palabra:DRUMMOND
 Palabra:DRUMS
 Palabra:DRob
-Palabra:DT
 Palabra:DTN
 Palabra:DUAL
 Palabra:DUDE
@@ -1621,7 +1567,6 @@ Palabra:DVBBS
 Palabra:DVC
 Palabra:DVD
 Palabra:DYE
-Palabra:Da
 Palabra:Dad
 Palabra:Daddy
 Palabra:Daesh
@@ -1671,7 +1616,6 @@ Palabra:Daviss
 Palabra:Dawson
 Palabra:Day
 Palabra:Daytonarea
-Palabra:Dc
 Palabra:Dead
 Palabra:Deadliest
 Palabra:Deadly
@@ -1763,9 +1707,7 @@ Palabra:Devices
 Palabra:Devil
 Palabra:Devjis
 Palabra:Dewatering
-Palabra:Dh
 Palabra:Dhalgren
-Palabra:Di
 Palabra:Diablo
 Palabra:Diageos
 Palabra:Dial
@@ -1824,8 +1766,6 @@ Palabra:District
 Palabra:Diva
 Palabra:Diving
 Palabra:Dixie
-Palabra:Dj
-Palabra:Do
 Palabra:Docks
 Palabra:Doctor
 Palabra:Documenting
@@ -1871,7 +1811,6 @@ Palabra:Download
 Palabra:Downtown
 Palabra:Dozen
 Palabra:Dozens
-Palabra:Dr
 Palabra:DrAyesha
 Palabra:Dracula
 Palabra:Draenor
@@ -1936,7 +1875,6 @@ Palabra:Dwight
 Palabra:Dyersburg
 Palabra:Dying
 Palabra:Dysfunctional
-Palabra:E
 Palabra:EAGLE
 Palabra:EARTHQUAKE
 Palabra:EAST
@@ -1948,16 +1886,11 @@ Palabra:EDK
 Palabra:EDM
 Palabra:EDSA
 Palabra:EDcXO
-Palabra:EE
 Palabra:EFAK
 Palabra:EFF
-Palabra:EH
 Palabra:EHutch
 Palabra:EITHER
-Palabra:EJ
-Palabra:EL
 Palabra:ELECTROCUTE
-Palabra:EM
 Palabra:EMERGENCY
 Palabra:EMP
 Palabra:EMPEROR
@@ -1966,17 +1899,13 @@ Palabra:END
 Palabra:ENDED
 Palabra:ENGLAND
 Palabra:ENTERTAINMENT
-Palabra:EP
 Palabra:EPA
 Palabra:EPIC
 Palabra:EPISODE
-Palabra:EQ
-Palabra:ER
 Palabra:ESN
 Palabra:ESPN
 Palabra:ETP
 Palabra:ETX
-Palabra:EU
 Palabra:EUROCRISIS
 Palabra:EVACUATE
 Palabra:EVEN
@@ -2017,7 +1946,6 @@ Palabra:Economic
 Palabra:Economists
 Palabra:Economy
 Palabra:Ecstatic
-Palabra:Ed
 Palabra:Eden
 Palabra:Edinburgh
 Palabra:Edison
@@ -2037,13 +1965,11 @@ Palabra:Effects
 Palabra:Effort
 Palabra:Egypt
 Palabra:Egyptian
-Palabra:Eh
 Palabra:Eight
 Palabra:Eightynine
 Palabra:Eisenhower
 Palabra:Eish
 Palabra:Ekiti
-Palabra:El
 Palabra:ElBestia
 Palabra:Elecman
 Palabra:Electric
@@ -2117,7 +2043,6 @@ Palabra:Epiphanes
 Palabra:Episcopal
 Palabra:Episode
 Palabra:Equipment
-Palabra:Er
 Palabra:Ercjmnea
 Palabra:Erdogans
 Palabra:Eric
@@ -2125,7 +2050,6 @@ Palabra:Err
 Palabra:Errrr
 Palabra:Eruption
 Palabra:Eruptions
-Palabra:Es
 Palabra:Escape
 Palabra:Escaping
 Palabra:EseVU
@@ -2152,7 +2076,6 @@ Palabra:Eurobasket
 Palabra:Europe
 Palabra:European
 Palabra:Eurotunnel
-Palabra:Ev
 Palabra:Evacuate
 Palabra:Evacuated
 Palabra:Evacuation
@@ -2213,7 +2136,6 @@ Palabra:Exums
 Palabra:Eye
 Palabra:Eyes
 Palabra:Eyewitness
-Palabra:F
 Palabra:FAAN
 Palabra:FACE
 Palabra:FACT
@@ -2236,12 +2158,9 @@ Palabra:FATHER
 Palabra:FAVORITE
 Palabra:FAVORITES
 Palabra:FAVS
-Palabra:FB
 Palabra:FBI
-Palabra:FC
 Palabra:FCO
 Palabra:FCSL
-Palabra:FD
 Palabra:FDNY
 Palabra:FDX
 Palabra:FEAR
@@ -2265,13 +2184,11 @@ Palabra:FIRES
 Palabra:FIRST
 Palabra:FISH
 Palabra:FIXED
-Palabra:FL
 Palabra:FLASH
 Palabra:FLATLINERS
 Palabra:FLEETWOOD
 Palabra:FLOODING
 Palabra:FLP
-Palabra:FM
 Palabra:FNaF
 Palabra:FOLLOW
 Palabra:FOLLOWUP
@@ -2282,13 +2199,11 @@ Palabra:FORBES
 Palabra:FOREST
 Palabra:FORREAL
 Palabra:FOXA
-Palabra:FR
 Palabra:FREE
 Palabra:FREYAS
 Palabra:FROM
 Palabra:FRONTLINE
 Palabra:FRP
-Palabra:FU
 Palabra:FUCK
 Palabra:FUCKIN
 Palabra:FUCKING
@@ -2357,7 +2272,6 @@ Palabra:Fatherofthree
 Palabra:Fathers
 Palabra:Faux
 Palabra:FdbDP
-Palabra:Fe
 Palabra:Fear
 Palabra:Fears
 Palabra:Feast
@@ -2506,7 +2420,6 @@ Palabra:Fourth
 Palabra:Fowlers
 Palabra:Fox
 Palabra:FpOJ
-Palabra:Fr
 Palabra:FrNch
 Palabra:Frame
 Palabra:Fran
@@ -2543,7 +2456,6 @@ Palabra:From
 Palabra:Front
 Palabra:Frost
 Palabra:Fruits
-Palabra:Ft
 Palabra:Fuck
 Palabra:Fucking
 Palabra:Fuddy
@@ -2563,20 +2475,16 @@ Palabra:Fur
 Palabra:Further
 Palabra:Future
 Palabra:Fylde
-Palabra:G
 Palabra:GAElite
 Palabra:GANG
 Palabra:GARDS
 Palabra:GAS
 Palabra:GAVE
 Palabra:GBBO
-Palabra:GC
 Palabra:GEARS
 Palabra:GENERAL
 Palabra:GENTLEMENthe
 Palabra:GET
-Palabra:GG
-Palabra:GI
 Palabra:GIANT
 Palabra:GIF
 Palabra:GIMME
@@ -2589,12 +2497,10 @@ Palabra:GIST
 Palabra:GLOBAL
 Palabra:GLOBIinclusion
 Palabra:GLORIA
-Palabra:GM
 Palabra:GMCR
 Palabra:GMMBC
 Palabra:GNS
 Palabra:GNWT
-Palabra:GO
 Palabra:GOAT
 Palabra:GOATS
 Palabra:GOD
@@ -2608,16 +2514,13 @@ Palabra:GOSH
 Palabra:GOT
 Palabra:GOVERNOR
 Palabra:GOZ
-Palabra:GP
 Palabra:GPM
 Palabra:GPS
 Palabra:GPV
-Palabra:GR
 Palabra:GREAT
 Palabra:GRINDS
 Palabra:GRIZZLY
 Palabra:GSP
-Palabra:GT
 Palabra:GUAbxFv
 Palabra:GUILLERMO
 Palabra:GUN
@@ -2711,7 +2614,6 @@ Palabra:Globe
 Palabra:Gloria
 Palabra:Gloucester
 Palabra:Gmail
-Palabra:Go
 Palabra:GoFundMe
 Palabra:GoT
 Palabra:God
@@ -2785,7 +2687,6 @@ Palabra:Grow
 Palabra:Grows
 Palabra:Growth
 Palabra:Grrrr
-Palabra:Gs
 Palabra:GtxRWm
 Palabra:Guam
 Palabra:Guaranteed
@@ -2815,7 +2716,6 @@ Palabra:Guthrie
 Palabra:Gutted
 Palabra:Guy
 Palabra:Guys
-Palabra:H
 Palabra:HAD
 Palabra:HAHAHAHA
 Palabra:HAIL
@@ -2836,9 +2736,6 @@ Palabra:HATZOLAH
 Palabra:HAVE
 Palabra:HAZARD
 Palabra:HAZARDOUS
-Palabra:HC
-Palabra:HD
-Palabra:HE
 Palabra:HEALTH
 Palabra:HEAR
 Palabra:HEARD
@@ -2854,7 +2751,6 @@ Palabra:HES
 Palabra:HEY
 Palabra:HHS
 Palabra:HHw
-Palabra:HI
 Palabra:HIGH
 Palabra:HIM
 Palabra:HIS
@@ -2879,9 +2775,7 @@ Palabra:HOTEL
 Palabra:HOUSE
 Palabra:HOW
 Palabra:HQhed
-Palabra:HR
 Palabra:HSTs
-Palabra:HT
 Palabra:HTML
 Palabra:HUGE
 Palabra:HUMANITY
@@ -2893,7 +2787,6 @@ Palabra:HWRF
 Palabra:HWYMAGELLAN
 Palabra:HYDERABAD
 Palabra:HYPE
-Palabra:Ha
 Palabra:Haaretz
 Palabra:Hackers
 Palabra:Had
@@ -2969,7 +2862,6 @@ Palabra:Hazard
 Palabra:Hazardous
 Palabra:Hazmat
 Palabra:Hazzel
-Palabra:He
 Palabra:Head
 Palabra:Headed
 Palabra:Headline
@@ -3019,7 +2911,6 @@ Palabra:Heroine
 Palabra:Heros
 Palabra:Hes
 Palabra:Hey
-Palabra:Hi
 Palabra:HiRes
 Palabra:Hiatt
 Palabra:Hibernating
@@ -3070,7 +2961,6 @@ Palabra:History
 Palabra:Hit
 Palabra:HitchBot
 Palabra:Hlongwane
-Palabra:Hm
 Palabra:Hmm
 Palabra:Hmmthis
 Palabra:Hobbit
@@ -3134,7 +3024,6 @@ Palabra:Houston
 Palabra:How
 Palabra:However
 Palabra:Hows
-Palabra:Hp
 Palabra:Hsu
 Palabra:HtaRvrGLY
 Palabra:Hubert
@@ -3160,7 +3049,6 @@ Palabra:Hurt
 Palabra:Husbands
 Palabra:Huzzah
 Palabra:Hvy
-Palabra:Hw
 Palabra:Hwy
 Palabra:Hyatt
 Palabra:Hybrid
@@ -3168,32 +3056,22 @@ Palabra:Hyderabad
 Palabra:Hypocrisy
 Palabra:Hysteria
 Palabra:Hyung
-Palabra:I
-Palabra:IB
 Palabra:ICYMI
-Palabra:ID
 Palabra:IDEAS
 Palabra:IDIOCY
 Palabra:IDK
 Palabra:IDPs
-Palabra:IF
 Palabra:IFAK
-Palabra:IG
 Palabra:IGN
-Palabra:II
 Palabra:III
 Palabra:IIII
-Palabra:IJ
-Palabra:IK
 Palabra:IKPEAZU
 Palabra:ILL
-Palabra:IM
 Palabra:IMAGINE
 Palabra:IMM
 Palabra:IMMEDIATELY
 Palabra:IMMENSELY
 Palabra:IMPACT
-Palabra:IN
 Palabra:INCREDIBLE
 Palabra:INEC
 Palabra:INFANTRY
@@ -3210,13 +3088,11 @@ Palabra:IPOK
 Palabra:IRA
 Palabra:IRIN
 Palabra:IRONMAN
-Palabra:IS
 Palabra:ISIL
 Palabra:ISIS
 Palabra:ISISI
 Palabra:ISNT
 Palabra:ISSUED
-Palabra:IT
 Palabra:ITS
 Palabra:IVE
 Palabra:IaAvRoIV
@@ -3228,7 +3104,6 @@ Palabra:Ibrahimovic
 Palabra:Icarus
 Palabra:Ice
 Palabra:Iceland
-Palabra:Id
 Palabra:Idaho
 Palabra:Idea
 Palabra:Ideas
@@ -3236,7 +3111,6 @@ Palabra:Identification
 Palabra:Idgaf
 Palabra:Idk
 Palabra:Idol
-Palabra:If
 Palabra:Igers
 Palabra:Ignite
 Palabra:Ignition
@@ -3248,7 +3122,6 @@ Palabra:Illinois
 Palabra:Illnesses
 Palabra:Illusionimagess
 Palabra:Illusoria
-Palabra:Im
 Palabra:Ima
 Palabra:Image
 Palabra:Images
@@ -3259,7 +3132,6 @@ Palabra:Imminent
 Palabra:Imouto
 Palabra:Important
 Palabra:Impossible
-Palabra:In
 Palabra:Ina
 Palabra:Inbounds
 Palabra:Inc
@@ -3351,7 +3223,6 @@ Palabra:Irish
 Palabra:Irons
 Palabra:Irony
 Palabra:Irwin
-Palabra:Is
 Palabra:Isa
 Palabra:Isabel
 Palabra:Isai
@@ -3370,7 +3241,6 @@ Palabra:Israeli
 Palabra:Israels
 Palabra:Issued
 Palabra:Issues
-Palabra:It
 Palabra:ItScreams
 Palabra:Italian
 Palabra:Italy
@@ -3379,8 +3249,6 @@ Palabra:ItrAWcWB
 Palabra:Its
 Palabra:Ive
 Palabra:Iverson
-Palabra:J
-Palabra:JA
 Palabra:JACK
 Palabra:JAH
 Palabra:JAKE
@@ -3391,9 +3259,7 @@ Palabra:JAPANESE
 Palabra:JARIANA
 Palabra:JAX
 Palabra:JEDI
-Palabra:JJ
 Palabra:JKL
-Palabra:JM
 Palabra:JOBOOZOSO
 Palabra:JOE
 Palabra:JOHANNESBURG
@@ -3402,7 +3268,6 @@ Palabra:JPLocalFirst
 Palabra:JPMorgan
 Palabra:JSDF
 Palabra:JUST
-Palabra:Ja
 Palabra:JaN
 Palabra:Jacinta
 Palabra:Jack
@@ -3497,7 +3362,6 @@ Palabra:Journalists
 Palabra:Journeys
 Palabra:Joy
 Palabra:Jps
-Palabra:Jr
 Palabra:Jrowah
 Palabra:JuanMThompson
 Palabra:Juanny
@@ -3520,14 +3384,12 @@ Palabra:Jus
 Palabra:Just
 Palabra:Justin
 Palabra:Justine
-Palabra:K
 Palabra:KARACHI
 Palabra:KATU
 Palabra:KATUNews
 Palabra:KBAK
 Palabra:KCEM
 Palabra:KCRW
-Palabra:KE
 Palabra:KEEP
 Palabra:KEGm
 Palabra:KELLER
@@ -3543,13 +3405,10 @@ Palabra:KNEEL
 Palabra:KNOCKOUT
 Palabra:KNOW
 Palabra:KOLKATA
-Palabra:KP
 Palabra:KPA
 Palabra:KPdied
-Palabra:KS
 Palabra:KTLA
 Palabra:KUALA
-Palabra:KY
 Palabra:KYLE
 Palabra:Kabul
 Palabra:Kach
@@ -3658,7 +3517,6 @@ Palabra:Korean
 Palabra:Kororinpa
 Palabra:Kosciusko
 Palabra:Kosher
-Palabra:Kp
 Palabra:Kraft
 Palabra:Krag
 Palabra:Krefeld
@@ -3672,8 +3530,6 @@ Palabra:Kuznetsova
 Palabra:Kyle
 Palabra:Kylie
 Palabra:Kyodonews
-Palabra:L
-Palabra:LA
 Palabra:LADIES
 Palabra:LADY
 Palabra:LAID
@@ -3701,7 +3557,6 @@ Palabra:LITTLE
 Palabra:LIVE
 Palabra:LIVES
 Palabra:LIve
-Palabra:LJ
 Palabra:LLEGASTE
 Palabra:LLF
 Palabra:LLOYD
@@ -3723,13 +3578,10 @@ Palabra:LOUD
 Palabra:LOUIS
 Palabra:LOVE
 Palabra:LRT
-Palabra:LS
-Palabra:LT
 Palabra:LUCKY
 Palabra:LUMPUR
 Palabra:LVictoria
 Palabra:LZK
-Palabra:La
 Palabra:LaMarcus
 Palabra:Lab
 Palabra:Laboratory
@@ -3782,7 +3634,6 @@ Palabra:Laws
 Palabra:Lawsuit
 Palabra:Lawton
 Palabra:Layout
-Palabra:Le
 Palabra:Lead
 Palabra:Leader
 Palabra:Leaders
@@ -3918,7 +3769,6 @@ Palabra:Lowly
 Palabra:Lowndes
 Palabra:Lozano
 Palabra:Ltd
-Palabra:Lu
 Palabra:Lubbock
 Palabra:Lucas
 Palabra:Lucifer
@@ -3933,7 +3783,6 @@ Palabra:Lustig
 Palabra:Lyf
 Palabra:Lying
 Palabra:Lyme
-Palabra:M
 Palabra:MAC
 Palabra:MADE
 Palabra:MAJESTY
@@ -3945,11 +3794,8 @@ Palabra:MANY
 Palabra:MASSACRE
 Palabra:MASSIVE
 Palabra:MASSMURDERER
-Palabra:MB
 Palabra:MCR
 Palabra:MCV
-Palabra:MD
-Palabra:ME
 Palabra:MEET
 Palabra:MEG
 Palabra:MEGALPOLIS
@@ -3957,12 +3803,9 @@ Palabra:MELTDOWN
 Palabra:MEN
 Palabra:MESS
 Palabra:METAL
-Palabra:MF
 Palabra:MFi
 Palabra:MGNAFRICA
 Palabra:MGS
-Palabra:MH
-Palabra:MI
 Palabra:MICHAEL
 Palabra:MICHIGAN
 Palabra:MICROWAVE
@@ -3976,14 +3819,12 @@ Palabra:MISTI
 Palabra:MIXTAPE
 Palabra:MKX
 Palabra:MKayla
-Palabra:ML
 Palabra:MLB
 Palabra:MLK
 Palabra:MMA
 Palabra:MMDA
 Palabra:MMEAUSTIN
 Palabra:MMX
-Palabra:MO
 Palabra:MOD
 Palabra:MODE
 Palabra:MODEL
@@ -4003,17 +3844,14 @@ Palabra:MOTHERS
 Palabra:MOTORCRAFT
 Palabra:MOVE
 Palabra:MOVIE
-Palabra:MP
 Palabra:MPC
 Palabra:MPP
 Palabra:MRC
 Palabra:MRI
 Palabra:MRW
-Palabra:MS
 Palabra:MSF
 Palabra:MSHA
 Palabra:MSM
-Palabra:MT
 Palabra:MTR
 Palabra:MUCH
 Palabra:MUDSLIDE
@@ -4021,9 +3859,6 @@ Palabra:MUM
 Palabra:MUSLIMS
 Palabra:MUSTSEE
 Palabra:MUZAFFARABAD
-Palabra:MW
-Palabra:MX
-Palabra:MY
 Palabra:MYSELF
 Palabra:MaFireEMS
 Palabra:Maaaaan
@@ -4148,7 +3983,6 @@ Palabra:Maybe
 Palabra:Mayhem
 Palabra:Mayweathers
 Palabra:Mbiwa
-Palabra:Mc
 Palabra:McConnell
 Palabra:McDonalds
 Palabra:McFadden
@@ -4156,7 +3990,6 @@ Palabra:McIlroy
 Palabra:McLaughlin
 Palabra:McMahon
 Palabra:Mcdonalds
-Palabra:Me
 Palabra:Meals
 Palabra:Mean
 Palabra:Means
@@ -4347,7 +4180,6 @@ Palabra:Movement
 Palabra:Movie
 Palabra:Moving
 Palabra:Moyo
-Palabra:Mr
 Palabra:Much
 Palabra:MuckRock
 Palabra:Mudslide
@@ -4378,12 +4210,10 @@ Palabra:Must
 Palabra:Muzzamil
 Palabra:MwjCdk
 Palabra:Mxaaaa
-Palabra:My
 Palabra:MyPillowStudio
 Palabra:Myanmar
 Palabra:Myanmars
 Palabra:Mystical
-Palabra:N
 Palabra:NAIROBI
 Palabra:NAJIB
 Palabra:NAKED
@@ -4397,11 +4227,9 @@ Palabra:NAVY
 Palabra:NBC
 Palabra:NBCHannibal
 Palabra:NBCNightlyNews
-Palabra:NC
 Palabra:NCJFCJ
 Palabra:NDP
 Palabra:NDTV
-Palabra:NE
 Palabra:NEED
 Palabra:NEEDED
 Palabra:NEEDS
@@ -4412,7 +4240,6 @@ Palabra:NEWIDEA
 Palabra:NEWS
 Palabra:NEXT
 Palabra:NFL
-Palabra:NH
 Palabra:NHS
 Palabra:NIA
 Palabra:NICE
@@ -4420,10 +4247,7 @@ Palabra:NIGGA
 Palabra:NIGHT
 Palabra:NIXON
 Palabra:NIggas
-Palabra:NJ
-Palabra:NM
 Palabra:NNO
-Palabra:NO
 Palabra:NOAA
 Palabra:NONSENSE
 Palabra:NOOO
@@ -4441,20 +4265,16 @@ Palabra:NOVA
 Palabra:NOW
 Palabra:NRA
 Palabra:NRCMiddleEast
-Palabra:NS
 Palabra:NSA
 Palabra:NSW
 Palabra:NTSB
-Palabra:NU
 Palabra:NUCLEAR
 Palabra:NUDE
 Palabra:NUGGETS
 Palabra:NUMB
 Palabra:NURGLE
 Palabra:NVIDIA
-Palabra:NW
 Palabra:NWS
-Palabra:NY
 Palabra:NYC
 Palabra:NYSE
 Palabra:NYT
@@ -4557,7 +4377,6 @@ Palabra:Ninja
 Palabra:Nino
 Palabra:Nixon
 Palabra:Njenga
-Palabra:No
 Palabra:NoEmotion
 Palabra:NoPassenger
 Palabra:Noah
@@ -4618,21 +4437,16 @@ Palabra:Nuu
 Palabra:Nuys
 Palabra:Nyack
 Palabra:Nylon
-Palabra:O
 Palabra:OAMSGAJAGAHAHAH
 Palabra:OBLITERATE
 Palabra:OBLITERATED
-Palabra:OC
 Palabra:OCD
 Palabra:ODonnell
 Palabra:OEM
-Palabra:OF
 Palabra:OFA
 Palabra:OFFICER
 Palabra:OFFICES
 Palabra:OFFICIAL
-Palabra:OH
-Palabra:OK
 Palabra:OKAY
 Palabra:OKs
 Palabra:OLATHE
@@ -4642,12 +4456,10 @@ Palabra:OMFG
 Palabra:OMG
 Palabra:OMGGGG
 Palabra:OMg
-Palabra:ON
 Palabra:ONE
 Palabra:ONLY
 Palabra:ONeill
 Palabra:OPER
-Palabra:OR
 Palabra:ORDER
 Palabra:OREGON
 Palabra:ORNAMENT
@@ -4679,7 +4491,6 @@ Palabra:Oddball
 Palabra:OdeEkiti
 Palabra:Odell
 Palabra:Odeon
-Palabra:Of
 Palabra:Off
 Palabra:Offensive
 Palabra:OffensiveContent
@@ -4695,11 +4506,9 @@ Palabra:Offr
 Palabra:Offs
 Palabra:Ogbor
 Palabra:Ogun
-Palabra:Oh
 Palabra:Ohio
 Palabra:Oikawa
 Palabra:Oil
-Palabra:Ok
 Palabra:Okanagan
 Palabra:Okay
 Palabra:Oklahoma
@@ -4713,7 +4522,6 @@ Palabra:Omaha
 Palabra:Omars
 Palabra:Omg
 Palabra:Omron
-Palabra:On
 Palabra:OnTEJc
 Palabra:Once
 Palabra:One
@@ -4740,7 +4548,6 @@ Palabra:Opposition
 Palabra:Ops
 Palabra:Optiks
 Palabra:Opus
-Palabra:Or
 Palabra:Oracle
 Palabra:Orakei
 Palabra:Orangi
@@ -4785,8 +4592,6 @@ Palabra:Owen
 Palabra:Own
 Palabra:Owner
 Palabra:Owners
-Palabra:Oz
-Palabra:PA
 Palabra:PACIFIC
 Palabra:PAGASA
 Palabra:PAK
@@ -4800,8 +4605,6 @@ Palabra:PARTY
 Palabra:PAST
 Palabra:PATCH
 Palabra:PATRICK
-Palabra:PB
-Palabra:PC
 Palabra:PCPs
 Palabra:PDP
 Palabra:PEACEFULLY
@@ -4832,7 +4635,6 @@ Palabra:PLAY
 Palabra:PLEASE
 Palabra:PLUS
 Palabra:PLs
-Palabra:PM
 Palabra:PNC
 Palabra:POC
 Palabra:PODCAST
@@ -4850,7 +4652,6 @@ Palabra:POTUS
 Palabra:POV
 Palabra:POW
 Palabra:POWER
-Palabra:PP
 Palabra:PRAY
 Palabra:PRAYERS
 Palabra:PRESENT
@@ -4861,11 +4662,9 @@ Palabra:PRO
 Palabra:PROC
 Palabra:PROPERTY
 Palabra:PROTECT
-Palabra:PS
 Palabra:PSA
 Palabra:PSqD
 Palabra:PTSD
-Palabra:PU
 Palabra:PUMP
 Palabra:PUMPED
 Palabra:PUSSSSSSSSSY
@@ -5051,7 +4850,6 @@ Palabra:Pissed
 Palabra:Pittsburgh
 Palabra:Pixar
 Palabra:Pizza
-Palabra:Pl
 Palabra:Plains
 Palabra:Plan
 Palabra:Plane
@@ -5078,7 +4876,6 @@ Palabra:Pls
 Palabra:Plumber
 Palabra:Plumbing
 Palabra:Plus
-Palabra:Po
 Palabra:Pockets
 Palabra:Poetry
 Palabra:Pointing
@@ -5219,7 +5016,6 @@ Palabra:Prysmian
 Palabra:Psalm
 Palabra:Psalms
 Palabra:Psychiatric
-Palabra:Pt
 Palabra:Pub
 Palabra:Public
 Palabra:Publishing
@@ -5242,9 +5038,6 @@ Palabra:Putin
 Palabra:Putins
 Palabra:Putting
 Palabra:Pyrotechnic
-Palabra:Q
-Palabra:QA
-Palabra:QB
 Palabra:QUESTION
 Palabra:QUICK
 Palabra:QUITE
@@ -5262,7 +5055,6 @@ Palabra:Questionable
 Palabra:Quick
 Palabra:Quirk
 Palabra:Quite
-Palabra:R
 Palabra:RADIO
 Palabra:RAGHU
 Palabra:RAILWAYPROPER
@@ -5272,13 +5064,10 @@ Palabra:RAPPERS
 Palabra:RASaudAuthor
 Palabra:RAYNER
 Palabra:RAZED
-Palabra:RB
 Palabra:RBpK
 Palabra:RCHS
 Palabra:RCMP
-Palabra:RD
 Palabra:RDHORNDALE
-Palabra:RE
 Palabra:REACT
 Palabra:REAL
 Palabra:REALLY
@@ -5302,7 +5091,6 @@ Palabra:RETWEET
 Palabra:REUTERS
 Palabra:REVEALED
 Palabra:REY
-Palabra:RI
 Palabra:RICHIE
 Palabra:RICHMOND
 Palabra:RICOCHET
@@ -5315,7 +5103,6 @@ Palabra:RIYADH
 Palabra:RIZZO
 Palabra:RLY
 Palabra:RMT
-Palabra:RN
 Palabra:RNB
 Palabra:RNK
 Palabra:ROADS
@@ -5329,11 +5116,8 @@ Palabra:ROOM
 Palabra:ROSS
 Palabra:ROUTE
 Palabra:ROY
-Palabra:RP
 Palabra:RPN
-Palabra:RS
 Palabra:RSS
-Palabra:RT
 Palabra:RTAmerica
 Palabra:RTcom
 Palabra:RTed
@@ -5342,9 +5126,7 @@ Palabra:RUBBER
 Palabra:RUIN
 Palabra:RUN
 Palabra:RUNIN
-Palabra:RV
 Palabra:RYANS
-Palabra:RZ
 Palabra:RabidMonkeys
 Palabra:Racco
 Palabra:Racing
@@ -5389,7 +5171,6 @@ Palabra:Raung
 Palabra:Raw
 Palabra:Ray
 Palabra:Razed
-Palabra:Rd
 Palabra:ReNaomiNo
 Palabra:Reach
 Palabra:Reactor
@@ -5557,7 +5338,6 @@ Palabra:Rivals
 Palabra:River
 Palabra:RiverSiskiyou
 Palabra:Riverside
-Palabra:Rl
 Palabra:Rly
 Palabra:Rlyeh
 Palabra:Road
@@ -5619,8 +5399,6 @@ Palabra:Router
 Palabra:Row
 Palabra:Royal
 Palabra:Royale
-Palabra:Rs
-Palabra:Rt
 Palabra:Rubber
 Palabra:Rubble
 Palabra:Ruby
@@ -5644,8 +5422,6 @@ Palabra:Russian
 Palabra:Russias
 Palabra:Rutherford
 Palabra:Ryan
-Palabra:S
-Palabra:SA
 Palabra:SAFE
 Palabra:SAFETY
 Palabra:SAID
@@ -5659,7 +5435,6 @@ Palabra:SAUMUR
 Palabra:SAVER
 Palabra:SAY
 Palabra:SAYS
-Palabra:SB
 Palabra:SBUJDJSJS
 Palabra:SCARES
 Palabra:SCHOOL
@@ -5669,7 +5444,6 @@ Palabra:SCREAMS
 Palabra:SCREW
 Palabra:SCT
 Palabra:SDB
-Palabra:SE
 Palabra:SEA
 Palabra:SEAL
 Palabra:SEALED
@@ -5689,11 +5463,9 @@ Palabra:SERVICE
 Palabra:SET
 Palabra:SETTING
 Palabra:SEVERE
-Palabra:SF
 Palabra:SFA
 Palabra:SFGate
 Palabra:SFOR
-Palabra:SH
 Palabra:SHADOW
 Palabra:SHADOWMAN
 Palabra:SHALL
@@ -5721,7 +5493,6 @@ Palabra:SINKING
 Palabra:SIRENS
 Palabra:SITTING
 Palabra:SIZE
-Palabra:SJ
 Palabra:SKIMS
 Palabra:SKY
 Palabra:SLEEPING
@@ -5734,7 +5505,6 @@ Palabra:SMOOCHY
 Palabra:SMP
 Palabra:SNAP
 Palabra:SNI
-Palabra:SO
 Palabra:SOCIAL
 Palabra:SOLVING
 Palabra:SOME
@@ -5761,10 +5531,8 @@ Palabra:SPRINGS
 Palabra:SPRINTER
 Palabra:SPSGSP
 Palabra:SPYING
-Palabra:SR
 Palabra:SRK
 Palabra:SSP
-Palabra:ST
 Palabra:STAINED
 Palabra:STAND
 Palabra:STANS
@@ -5786,14 +5554,12 @@ Palabra:SUNK
 Palabra:SURVIVE
 Palabra:SUV
 Palabra:SUVS
-Palabra:SW
 Palabra:SWEAR
 Palabra:SWEAT
 Palabra:SWISS
 Palabra:SWOOPING
 Palabra:SYD
 Palabra:SYRIAN
-Palabra:Sa
 Palabra:Saadthe
 Palabra:Saams
 Palabra:Sac
@@ -6126,7 +5892,6 @@ Palabra:Snow
 Palabra:Snowball
 Palabra:Snowstorm
 Palabra:Snuff
-Palabra:So
 Palabra:Soap
 Palabra:Soaring
 Palabra:Social
@@ -6231,9 +5996,7 @@ Palabra:Sputnik
 Palabra:Squad
 Palabra:Squeeze
 Palabra:Squirrel
-Palabra:Sr
 Palabra:Ssshhheeesshh
-Palabra:St
 Palabra:Stacey
 Palabra:Staff
 Palabra:Stage
@@ -6436,7 +6199,6 @@ Palabra:System
 Palabra:Systems
 Palabra:Syvret
 Palabra:Szuter
-Palabra:T
 Palabra:TAGGING
 Palabra:TAHOEBLAZERAVALANCHES
 Palabra:TAKEN
@@ -6445,10 +6207,8 @@ Palabra:TAME
 Palabra:TAMPA
 Palabra:TANK
 Palabra:TATTOOED
-Palabra:TB
 Palabra:TBI
 Palabra:TBR
-Palabra:TC
 Palabra:TCH
 Palabra:TEA
 Palabra:TEARS
@@ -6458,7 +6218,6 @@ Palabra:TELL
 Palabra:TENSION
 Palabra:TERRORIST
 Palabra:TEXT
-Palabra:TF
 Palabra:TFD
 Palabra:THAN
 Palabra:THANKFULLY
@@ -6493,12 +6252,8 @@ Palabra:THUNDERSTORM
 Palabra:TIE
 Palabra:TIME
 Palabra:TIMELAPSE
-Palabra:TJ
-Palabra:TL
 Palabra:TLC
 Palabra:TLoZ
-Palabra:TN
-Palabra:TO
 Palabra:TODAY
 Palabra:TOM
 Palabra:TOMORROW
@@ -6524,8 +6279,6 @@ Palabra:TRYING
 Palabra:TSA
 Palabra:TSUNAMI
 Palabra:TTW
-Palabra:TU
-Palabra:TV
 Palabra:TWIA
 Palabra:TWISTER
 Palabra:TWO
@@ -6688,7 +6441,6 @@ Palabra:Thursdays
 Palabra:Thus
 Palabra:Thx
 Palabra:Thyroid
-Palabra:Ti
 Palabra:Tickets
 Palabra:Tied
 Palabra:Til
@@ -6708,7 +6460,6 @@ Palabra:Titanic
 Palabra:Tittie
 Palabra:TksgS
 Palabra:Tltltltltlttlt
-Palabra:To
 Palabra:Tobias
 Palabra:Today
 Palabra:Todays
@@ -6836,7 +6587,6 @@ Palabra:Tsipras
 Palabra:Tstorm
 Palabra:Tsunami
 Palabra:Tsutomi
-Palabra:Tt
 Palabra:Tube
 Palabra:Tucson
 Palabra:Tuesday
@@ -6875,14 +6625,10 @@ Palabra:Type
 Palabra:Typhoon
 Palabra:TyphoonDevastated
 Palabra:Tyuler
-Palabra:U
 Palabra:UAE
-Palabra:UD
 Palabra:UGH
-Palabra:UK
 Palabra:UKFrance
 Palabra:UKs
-Palabra:UN
 Palabra:UNBORN
 Palabra:UNCOVER
 Palabra:UNENDING
@@ -6893,12 +6639,9 @@ Palabra:UNR
 Palabra:UNSTOPPABLE
 Palabra:UNTIL
 Palabra:UNWANTED
-Palabra:UP
 Palabra:UPDATE
 Palabra:UPDATEME
-Palabra:UR
 Palabra:URGENT
-Palabra:US
 Palabra:USA
 Palabra:USAT
 Palabra:USATODAY
@@ -6909,7 +6652,6 @@ Palabra:USMC
 Palabra:USPACIFIC
 Palabra:USW
 Palabra:UTP
-Palabra:UV
 Palabra:UVoPWZ
 Palabra:Uber
 Palabra:Udhampur
@@ -6924,7 +6666,6 @@ Palabra:Ukraines
 Palabra:Ukrainian
 Palabra:Uluru
 Palabra:Ulzzang
-Palabra:Um
 Palabra:Unaware
 Palabra:Uncharted
 Palabra:Unconditional
@@ -6955,7 +6696,6 @@ Palabra:Unsurprisingstill
 Palabra:Untangle
 Palabra:Unter
 Palabra:Until
-Palabra:Up
 Palabra:UpAH
 Palabra:Update
 Palabra:Updated
@@ -6965,12 +6705,10 @@ Palabra:Uplifting
 Palabra:Upon
 Palabra:Upper
 Palabra:Uptown
-Palabra:Ur
 Palabra:Urgent
 Palabra:Uribe
 Palabra:Ursula
 Palabra:Uruan
-Palabra:Us
 Palabra:Usama
 Palabra:Use
 Palabra:Used
@@ -6978,7 +6716,6 @@ Palabra:Users
 Palabra:Using
 Palabra:Uttarakhand
 Palabra:Utter
-Palabra:VA
 Palabra:VAL
 Palabra:VAN
 Palabra:VECTOR
@@ -7005,12 +6742,10 @@ Palabra:VIXEN
 Palabra:VODs
 Palabra:VOLCANO
 Palabra:VPSay
-Palabra:VS
 Palabra:VTc
 Palabra:VUCA
 Palabra:VUITTON
 Palabra:VUUUUU
-Palabra:Va
 Palabra:Vacation
 Palabra:Vaccine
 Palabra:Val
@@ -7094,8 +6829,6 @@ Palabra:Vote
 Palabra:Voting
 Palabra:Vroman
 Palabra:Vuitton
-Palabra:W
-Palabra:WA
 Palabra:WACKOES
 Palabra:WACKOS
 Palabra:WAIT
@@ -7111,13 +6844,9 @@ Palabra:WATCH
 Palabra:WATCHING
 Palabra:WAY
 Palabra:WAYS
-Palabra:WB
-Palabra:WC
 Palabra:WCE
-Palabra:WD
 Palabra:WDSU
 Palabra:WDTV
-Palabra:WE
 Palabra:WEAPON
 Palabra:WEAPONS
 Palabra:WEATHER
@@ -7152,10 +6881,8 @@ Palabra:WIRED
 Palabra:WITH
 Palabra:WITHER
 Palabra:WITHOUT
-Palabra:WM
 Palabra:WMATA
 Palabra:WMUR
-Palabra:WN
 Palabra:WNBA
 Palabra:WND
 Palabra:WOLF
@@ -7171,10 +6898,8 @@ Palabra:WOULD
 Palabra:WOUNDED
 Palabra:WOUNDS
 Palabra:WOW
-Palabra:WP
 Palabra:WPRI
 Palabra:WPT
-Palabra:WR
 Palabra:WRAPUP
 Palabra:WRECK
 Palabra:WRECKED
@@ -7182,7 +6907,6 @@ Palabra:WSJThinkTank
 Palabra:WSLS
 Palabra:WSVR
 Palabra:WTF
-Palabra:WW
 Palabra:WWE
 Palabra:WWI
 Palabra:WWII
@@ -7251,7 +6975,6 @@ Palabra:Waving
 Palabra:Way
 Palabra:Wayne
 Palabra:Ways
-Palabra:We
 Palabra:Weak
 Palabra:Weapon
 Palabra:Weaponry
@@ -7423,26 +7146,20 @@ Palabra:Writings
 Palabra:Wtf
 Palabra:Wut
 Palabra:Wyrmwood
-Palabra:X
 Palabra:XFiles
 Palabra:XII
 Palabra:XMen
 Palabra:XPost
 Palabra:XUSKAK
-Palabra:XV
 Palabra:Xbox
 Palabra:Xela
 Palabra:XkDrx
-Palabra:Xo
 Palabra:XrWn
 Palabra:Xrays
 Palabra:XxhJeSC
-Palabra:Y
-Palabra:YA
 Palabra:YALL
 Palabra:YAMASHIRO
 Palabra:YAOUNDE
-Palabra:YE
 Palabra:YEAH
 Palabra:YEAR
 Palabra:YELLING
@@ -7460,7 +7177,6 @@ Palabra:Yamaguchi
 Palabra:Yankees
 Palabra:Yay
 Palabra:Yazidis
-Palabra:Ye
 Palabra:Yea
 Palabra:Yeah
 Palabra:Year
@@ -7474,7 +7190,6 @@ Palabra:Yessum
 Palabra:Yesterday
 Palabra:Yesterdays
 Palabra:Yet
-Palabra:Yo
 Palabra:Yoenis
 Palabra:York
 Palabra:Yorker
@@ -7492,10 +7207,8 @@ Palabra:Yourself
 Palabra:Youth
 Palabra:Youtube
 Palabra:Youve
-Palabra:Yr
 Palabra:Yumiko
 Palabra:Yup
-Palabra:Z
 Palabra:ZAYN
 Palabra:ZENIT
 Palabra:ZONE
@@ -7525,11 +7238,8 @@ Palabra:Zouma
 Palabra:ZrNf
 Palabra:\Allahuakbar\
 Palabra:`bbcnews
-Palabra:a
 Palabra:aQgcO
 Palabra:aRsOnISt
-Palabra:aT
-Palabra:aa
 Palabra:aaarrrgghhh
 Palabra:aan
 Palabra:abandon
@@ -7552,7 +7262,6 @@ Palabra:absolute
 Palabra:absolutely
 Palabra:abuse
 Palabra:abuses
-Palabra:ac
 Palabra:accept
 Palabra:accepte
 Palabra:access
@@ -7628,7 +7337,6 @@ Palabra:advice
 Palabra:advised
 Palabra:advisory
 Palabra:aesthetic
-Palabra:af
 Palabra:affair
 Palabra:affect
 Palabra:affected
@@ -7664,7 +7372,6 @@ Palabra:agoChicago
 Palabra:agree
 Palabra:agreed
 Palabra:agrees
-Palabra:ah
 Palabra:ahahahga
 Palabra:ahead
 Palabra:ahuh
@@ -7732,7 +7439,6 @@ Palabra:although
 Palabra:altitude
 Palabra:aluminum
 Palabra:always
-Palabra:am
 Palabra:amazin
 Palabra:amazing
 Palabra:ambulance
@@ -7746,7 +7452,6 @@ Palabra:amo
 Palabra:among
 Palabra:amongst
 Palabra:amp
-Palabra:an
 Palabra:anacrusis
 Palabra:analogy
 Palabra:analysis
@@ -7873,7 +7578,6 @@ Palabra:articles
 Palabra:artist
 Palabra:artists
 Palabra:artwork
-Palabra:as
 Palabra:asf
 Palabra:ash
 Palabra:asher
@@ -7908,7 +7612,6 @@ Palabra:asthma
 Palabra:astounding
 Palabra:astrologian
 Palabra:asylum
-Palabra:at
 Palabra:atcinema
 Palabra:ate
 Palabra:athlete
@@ -7978,9 +7681,7 @@ Palabra:awhile
 Palabra:awkward
 Palabra:awn
 Palabra:awwww
-Palabra:ay
 Palabra:ayyy
-Palabra:b
 Palabra:bBakeb
 Palabra:bHyderabadb
 Palabra:bNVfDAg
@@ -8076,12 +7777,10 @@ Palabra:battleship
 Palabra:battling
 Palabra:bay
 Palabra:bbc
-Palabra:bc
 Palabra:bchocolateb
 Palabra:bck
 Palabra:bcs
 Palabra:bcuz
-Palabra:be
 Palabra:beach
 Palabra:beached
 Palabra:beaches
@@ -8163,7 +7862,6 @@ Palabra:between
 Palabra:beware
 Palabra:beyond
 Palabra:bff
-Palabra:bg
 Palabra:biblical
 Palabra:bicycle
 Palabra:bicycles
@@ -8323,7 +8021,6 @@ Palabra:boy
 Palabra:boyfriends
 Palabra:boyhaus
 Palabra:boys
-Palabra:br
 Palabra:brackets
 Palabra:brain
 Palabra:brainless
@@ -8447,8 +8144,6 @@ Palabra:buyout
 Palabra:buys
 Palabra:buzz
 Palabra:buzzy
-Palabra:by
-Palabra:c
 Palabra:cPanel
 Palabra:caaaaaall
 Palabra:cabbage
@@ -8566,7 +8261,6 @@ Palabra:causing
 Palabra:caution
 Palabra:cautious
 Palabra:caved
-Palabra:cd
 Palabra:cech
 Palabra:ceiling
 Palabra:celebration
@@ -8751,7 +8445,6 @@ Palabra:clowns
 Palabra:club
 Palabra:clutch
 Palabra:cmon
-Palabra:co
 Palabra:coach
 Palabra:coaches
 Palabra:coalitions
@@ -9009,7 +8702,6 @@ Palabra:cozy
 Palabra:cpr
 Palabra:cptesco
 Palabra:cpu
-Palabra:cr
 Palabra:crack
 Palabra:crackdowns
 Palabra:cracking
@@ -9109,16 +8801,13 @@ Palabra:cute
 Palabra:cuts
 Palabra:cutting
 Palabra:cuz
-Palabra:cv
 Palabra:cyber
 Palabra:cybersecurity
 Palabra:cycling
 Palabra:cyclist
 Palabra:cyclists
 Palabra:cyclone
-Palabra:d
 Palabra:dYxTmrYDu
-Palabra:da
 Palabra:daaamn
 Palabra:dad
 Palabra:daily
@@ -9157,7 +8846,6 @@ Palabra:daysonly
 Palabra:daytoday
 Palabra:dazzle
 Palabra:ddnt
-Palabra:de
 Palabra:deactivated
 Palabra:dead
 Palabra:deadgirltalking
@@ -9326,7 +9014,6 @@ Palabra:devil
 Palabra:devote
 Palabra:dey
 Palabra:dhsscitech
-Palabra:di
 Palabra:diagnosis
 Palabra:dials
 Palabra:dialyses
@@ -9429,10 +9116,8 @@ Palabra:divided
 Palabra:diving
 Palabra:division
 Palabra:divorce
-Palabra:dl
 Palabra:dmt
 Palabra:dnt
-Palabra:do
 Palabra:doBut
 Palabra:doc
 Palabra:dock
@@ -9542,7 +9227,6 @@ Palabra:drunk
 Palabra:dry
 Palabra:dryer
 Palabra:drying
-Palabra:dt
 Palabra:dtom
 Palabra:dualcom
 Palabra:dub
@@ -9574,7 +9258,6 @@ Palabra:dwindling
 Palabra:dying
 Palabra:dysfunctional
 Palabra:dystopian
-Palabra:e
 Palabra:eBay
 Palabra:eBb
 Palabra:eOvm
@@ -9629,11 +9312,9 @@ Palabra:effort
 Palabra:efforts
 Palabra:eggs
 Palabra:ego
-Palabra:eh
 Palabra:eheks
 Palabra:eish
 Palabra:either
-Palabra:el
 Palabra:elaboration
 Palabra:elanorofrohan
 Palabra:elbow
@@ -9657,7 +9338,6 @@ Palabra:ell
 Palabra:else
 Palabra:elses
 Palabra:elven
-Palabra:em
 Palabra:email
 Palabra:emails
 Palabra:ember
@@ -9677,7 +9357,6 @@ Palabra:employees
 Palabra:empower
 Palabra:empty
 Palabra:emptypated
-Palabra:en
 Palabra:enTension
 Palabra:enables
 Palabra:encaustic
@@ -9778,7 +9457,6 @@ Palabra:everywhere
 Palabra:evidence
 Palabra:evil
 Palabra:evolve
-Palabra:ex
 Palabra:exAssembly
 Palabra:exPresident
 Palabra:exact
@@ -9864,7 +9542,6 @@ Palabra:eyecenter
 Palabra:eyes
 Palabra:eyesss
 Palabra:eyewitness
-Palabra:f
 Palabra:fJiZzTxK
 Palabra:fUCK
 Palabra:facade
@@ -9993,7 +9670,6 @@ Palabra:festival
 Palabra:fetch
 Palabra:fever
 Palabra:few
-Palabra:fi
 Palabra:fiction
 Palabra:fiddle
 Palabra:field
@@ -10068,7 +9744,6 @@ Palabra:fixed
 Palabra:fixing
 Palabra:fixingmatch
 Palabra:fizzy
-Palabra:fl
 Palabra:flag
 Palabra:flame
 Palabra:flames
@@ -10170,7 +9845,6 @@ Palabra:found
 Palabra:four
 Palabra:fourth
 Palabra:fox
-Palabra:fr
 Palabra:fraction
 Palabra:fragile
 Palabra:fragrance
@@ -10211,7 +9885,6 @@ Palabra:fruit
 Palabra:fruits
 Palabra:frustrated
 Palabra:frustration
-Palabra:ft
 Palabra:ftMOP
 Palabra:fucboi
 Palabra:fuck
@@ -10299,7 +9972,6 @@ Palabra:getaway
 Palabra:gets
 Palabra:gettin
 Palabra:getting
-Palabra:gf
 Palabra:ghe
 Palabra:ghee
 Palabra:ghostwriter
@@ -10330,7 +10002,6 @@ Palabra:glowng
 Palabra:glue
 Palabra:gmtTy
 Palabra:gnocchi
-Palabra:go
 Palabra:goal
 Palabra:goals
 Palabra:goat
@@ -10370,7 +10041,6 @@ Palabra:government
 Palabra:governments
 Palabra:govt
 Palabra:govts
-Palabra:gr
 Palabra:grab
 Palabra:grabbed
 Palabra:grace
@@ -10458,9 +10128,7 @@ Palabra:gym
 Palabra:gymnastics
 Palabra:gyp
 Palabra:gypsy
-Palabra:h
 Palabra:hPSsJD
-Palabra:ha
 Palabra:habit
 Palabra:habits
 Palabra:hack
@@ -10548,8 +10216,6 @@ Palabra:hazardous
 Palabra:hazardsdisaster
 Palabra:hcXvNeoAV
 Palabra:hcg
-Palabra:hd
-Palabra:he
 Palabra:head
 Palabra:headache
 Palabra:headed
@@ -10618,7 +10284,6 @@ Palabra:herself
 Palabra:hes
 Palabra:hew
 Palabra:hhahaha
-Palabra:hi
 Palabra:hid
 Palabra:hidden
 Palabra:hide
@@ -10769,13 +10434,11 @@ Palabra:hurt
 Palabra:hurting
 Palabra:hurts
 Palabra:hustlin
-Palabra:hw
 Palabra:hygiene
 Palabra:hyped
 Palabra:hypnotize
 Palabra:hypocrisy
 Palabra:hysteria
-Palabra:i
 Palabra:iBliz
 Palabra:iCASEIT
 Palabra:iNWS
@@ -10786,7 +10449,6 @@ Palabra:ice
 Palabra:iceberg
 Palabra:iconic
 Palabra:icy
-Palabra:id
 Palabra:idc
 Palabra:idea
 Palabra:ideas
@@ -10796,9 +10458,7 @@ Palabra:idiot
 Palabra:idiots
 Palabra:idk
 Palabra:idm
-Palabra:ie
 Palabra:iembothfo
-Palabra:if
 Palabra:ifs
 Palabra:ignited
 Palabra:ignore
@@ -10814,7 +10474,6 @@ Palabra:illusion
 Palabra:illusions
 Palabra:illustrated
 Palabra:illustration
-Palabra:im
 Palabra:image
 Palabra:images
 Palabra:imagine
@@ -10851,7 +10510,6 @@ Palabra:improved
 Palabra:improvements
 Palabra:improves
 Palabra:impulsive
-Palabra:in
 Palabra:inaugural
 Palabra:inbetween
 Palabra:incapable
@@ -11017,7 +10675,6 @@ Palabra:irons
 Palabra:irrelevant
 Palabra:irrespective
 Palabra:irretrievable
-Palabra:is
 Palabra:isinjury
 Palabra:isis
 Palabra:island
@@ -11028,7 +10685,6 @@ Palabra:issue
 Palabra:issued
 Palabra:issues
 Palabra:istg
-Palabra:it
 Palabra:itblank
 Palabra:item
 Palabra:items
@@ -11063,7 +10719,6 @@ Palabra:jihadist
 Palabra:jimin
 Palabra:jinx
 Palabra:jiwa
-Palabra:jk
 Palabra:job
 Palabra:jobbing
 Palabra:jobs
@@ -11083,7 +10738,6 @@ Palabra:journalist
 Palabra:journey
 Palabra:joy
 Palabra:joys
-Palabra:jr
 Palabra:judge
 Palabra:judgement
 Palabra:juice
@@ -11101,13 +10755,11 @@ Palabra:justified
 Palabra:justifying
 Palabra:justmarried
 Palabra:jwalk
-Palabra:k
 Palabra:kWXGgt
 Palabra:kabwandi
 Palabra:karma
 Palabra:karnal
 Palabra:kayaking
-Palabra:kc
 Palabra:keegan
 Palabra:keen
 Palabra:keep
@@ -11183,9 +10835,7 @@ Palabra:kou
 Palabra:kunais
 Palabra:kurd
 Palabra:kurtkamka
-Palabra:l
 Palabra:lPDkl
-Palabra:la
 Palabra:lab
 Palabra:label
 Palabra:labelled
@@ -11473,8 +11123,6 @@ Palabra:lyk
 Palabra:lyrical
 Palabra:lyrics
 Palabra:lzkely
-Palabra:m
-Palabra:mY
 Palabra:mac
 Palabra:macabre
 Palabra:macabrelolita
@@ -11571,7 +11219,6 @@ Palabra:mayoral
 Palabra:mba
 Palabra:mcdonalds
 Palabra:mdash
-Palabra:me
 Palabra:meIs
 Palabra:mean
 Palabra:meaning
@@ -11633,7 +11280,6 @@ Palabra:method
 Palabra:methods
 Palabra:meturns
 Palabra:mezcal
-Palabra:mf
 Palabra:mhmmm
 Palabra:mhtw
 Palabra:mic
@@ -11717,7 +11363,6 @@ Palabra:mitigation
 Palabra:mix
 Palabra:mixtape
 Palabra:mixxtail
-Palabra:mo
 Palabra:mobbed
 Palabra:mobile
 Palabra:mock
@@ -11830,13 +11475,10 @@ Palabra:mustering
 Palabra:mustve
 Palabra:mutant
 Palabra:mute
-Palabra:mv
-Palabra:my
 Palabra:myGC
 Palabra:mydrought
 Palabra:myelf
 Palabra:myself
-Palabra:n
 Palabra:nAAYf
 Palabra:nOxDV
 Palabra:nabbed
@@ -11863,7 +11505,6 @@ Palabra:naval
 Palabra:navigate
 Palabra:navigating
 Palabra:nbanews
-Palabra:nd
 Palabra:near
 Palabra:nearby
 Palabra:nearly
@@ -11904,7 +11545,6 @@ Palabra:news
 Palabra:next
 Palabra:nflexpertpicks
 Palabra:nflweek
-Palabra:ng
 Palabra:niall
 Palabra:nice
 Palabra:nicely
@@ -11928,7 +11568,6 @@ Palabra:nineyearold
 Palabra:niqqa
 Palabra:nite
 Palabra:nittys
-Palabra:no
 Palabra:noble
 Palabra:nobleman
 Palabra:nobody
@@ -11987,7 +11626,6 @@ Palabra:nut
 Palabra:nuts
 Palabra:nvr
 Palabra:nyc
-Palabra:o
 Palabra:oMw
 Palabra:oNrhPz
 Palabra:obedience
@@ -12006,7 +11644,6 @@ Palabra:obstacles
 Palabra:obtaing
 Palabra:obvious
 Palabra:obviously
-Palabra:oc
 Palabra:occasion
 Palabra:occupants
 Palabra:occur
@@ -12015,7 +11652,6 @@ Palabra:occurs
 Palabra:ocean
 Palabra:oceans
 Palabra:odd
-Palabra:of
 Palabra:off
 Palabra:offbeat
 Palabra:offended
@@ -12037,14 +11673,10 @@ Palabra:offspring
 Palabra:ofnsixjks
 Palabra:often
 Palabra:ogt
-Palabra:oh
 Palabra:ohH
 Palabra:ohlordy
-Palabra:oi
 Palabra:oil
-Palabra:ok
 Palabra:okay
-Palabra:ol
 Palabra:old
 Palabra:olde
 Palabra:older
@@ -12055,7 +11687,6 @@ Palabra:olive
 Palabra:olour
 Palabra:omfg
 Palabra:omg
-Palabra:on
 Palabra:onThe
 Palabra:onc
 Palabra:once
@@ -12070,11 +11701,9 @@ Palabra:only
 Palabra:onnnn
 Palabra:ontario
 Palabra:onto
-Palabra:oo
 Palabra:ooh
 Palabra:oomf
 Palabra:oooh
-Palabra:op
 Palabra:open
 Palabra:opened
 Palabra:opener
@@ -12097,7 +11726,6 @@ Palabra:optical
 Palabra:optimistic
 Palabra:option
 Palabra:options
-Palabra:or
 Palabra:oral
 Palabra:orange
 Palabra:ordained
@@ -12114,14 +11742,12 @@ Palabra:original
 Palabra:originally
 Palabra:orphan
 Palabra:orphanage
-Palabra:os
 Palabra:osama
 Palabra:ostensibly
 Palabra:other
 Palabra:otherUll
 Palabra:others
 Palabra:otherwise
-Palabra:ou
 Palabra:ought
 Palabra:oup
 Palabra:our
@@ -12168,7 +11794,6 @@ Palabra:own
 Palabra:owner
 Palabra:owners
 Palabra:oyster
-Palabra:p
 Palabra:pAn
 Palabra:pVDRDLJvc
 Palabra:pWHvGwax
@@ -12630,7 +12255,6 @@ Palabra:provinces
 Palabra:provocation
 Palabra:provoke
 Palabra:proxy
-Palabra:ps
 Palabra:psa
 Palabra:psalms
 Palabra:psfdA
@@ -12638,7 +12262,6 @@ Palabra:psychic
 Palabra:psychological
 Palabra:psychologist
 Palabra:psychos
-Palabra:pu
 Palabra:public
 Palabra:publication
 Palabra:publicityalthough
@@ -12706,7 +12329,6 @@ Palabra:quoted
 Palabra:quotes
 Palabra:quotoperations
 Palabra:quottelevision
-Palabra:r
 Palabra:rGreen
 Palabra:rVaping
 Palabra:rabbisocial
@@ -12781,7 +12403,6 @@ Palabra:razed
 Palabra:razing
 Palabra:rcityporn
 Palabra:rconspiracy
-Palabra:re
 Palabra:rea
 Palabra:reaad
 Palabra:reach
@@ -13065,7 +12686,6 @@ Palabra:river
 Palabra:rivers
 Palabra:riyadh
 Palabra:rly
-Palabra:rn
 Palabra:road
 Palabra:roads
 Palabra:roadworks
@@ -13109,8 +12729,6 @@ Palabra:roving
 Palabra:row
 Palabra:rowyso
 Palabra:rpics
-Palabra:rq
-Palabra:ru
 Palabra:rubber
 Palabra:rubbery
 Palabra:rubbin
@@ -13143,8 +12761,6 @@ Palabra:rutinaofficial
 Palabra:rworldnews
 Palabra:ryan
 Palabra:ryt
-Palabra:s
-Palabra:sG
 Palabra:sSu
 Palabra:saat
 Palabra:sacrifice
@@ -13246,7 +12862,6 @@ Palabra:screams
 Palabra:screen
 Palabra:screenshots
 Palabra:scrolling
-Palabra:se
 Palabra:sea
 Palabra:seamstress
 Palabra:search
@@ -13445,7 +13060,6 @@ Palabra:shuffled
 Palabra:shut
 Palabra:shutdown
 Palabra:shuts
-Palabra:si
 Palabra:sibling
 Palabra:sick
 Palabra:sickmund
@@ -13559,7 +13173,6 @@ Palabra:slowpoke
 Palabra:slows
 Palabra:slsp
 Palabra:slurpees
-Palabra:sm
 Palabra:smHRN
 Palabra:smack
 Palabra:small
@@ -13606,7 +13219,6 @@ Palabra:snowstorm
 Palabra:snowy
 Palabra:snuck
 Palabra:snuff
-Palabra:so
 Palabra:soak
 Palabra:soaker
 Palabra:soaking
@@ -13671,7 +13283,6 @@ Palabra:south
 Palabra:southeast
 Palabra:southern
 Palabra:southwest
-Palabra:sp
 Palabra:space
 Palabra:spaceship
 Palabra:spam
@@ -13893,7 +13504,6 @@ Palabra:stunned
 Palabra:stupid
 Palabra:style
 Palabra:stylist
-Palabra:su
 Palabra:subatomic
 Palabra:subcommittee
 Palabra:subconscious
@@ -14027,7 +13637,6 @@ Palabra:symptoms
 Palabra:syndrome
 Palabra:system
 Palabra:systems
-Palabra:t
 Palabra:tab
 Palabra:table
 Palabra:tables
@@ -14085,9 +13694,7 @@ Palabra:tawFMCAw
 Palabra:tax
 Palabra:taxi
 Palabra:taxpayers
-Palabra:tb
 Palabra:tbh
-Palabra:te
 Palabra:tea
 Palabra:teacher
 Palabra:teachers
@@ -14147,8 +13754,6 @@ Palabra:tests
 Palabra:texas
 Palabra:text
 Palabra:texting
-Palabra:tf
-Palabra:th
 Palabra:than
 Palabra:thank
 Palabra:thankful
@@ -14287,7 +13892,6 @@ Palabra:title
 Palabra:titled
 Palabra:tkyonly
 Palabra:tlk
-Palabra:to
 Palabra:tobacco
 Palabra:today
 Palabra:todays
@@ -14463,7 +14067,6 @@ Palabra:turned
 Palabra:turning
 Palabra:turns
 Palabra:tutorials
-Palabra:tv
 Palabra:twain
 Palabra:tween
 Palabra:tweet
@@ -14490,17 +14093,14 @@ Palabra:typhoondevastated
 Palabra:typing
 Palabra:typos
 Palabra:tyre
-Palabra:u
 Palabra:ugh
 Palabra:ugliest
 Palabra:ugly
-Palabra:uh
 Palabra:uhc
 Palabra:uke
 Palabra:ulcerated
 Palabra:ultimate
 Palabra:ultimatum
-Palabra:um
 Palabra:umbrella
 Palabra:unable
 Palabra:unaddressed
@@ -14572,7 +14172,6 @@ Palabra:until
 Palabra:untill
 Palabra:unu
 Palabra:unveiled
-Palabra:up
 Palabra:upWindstorm
 Palabra:upclose
 Palabra:upcoming
@@ -14599,7 +14198,6 @@ Palabra:upstairs
 Palabra:uptick
 Palabra:uptotheminute
 Palabra:upwards
-Palabra:ur
 Palabra:uranium
 Palabra:urbanisation
 Palabra:ure
@@ -14608,7 +14206,6 @@ Palabra:urged
 Palabra:urine
 Palabra:urogyn
 Palabra:urs
-Palabra:us
 Palabra:usage
 Palabra:usagi
 Palabra:usatodaynfl
@@ -14624,7 +14221,6 @@ Palabra:usually
 Palabra:utility
 Palabra:utter
 Palabra:utterly
-Palabra:v
 Palabra:vaca
 Palabra:vacancies
 Palabra:vacation
@@ -14645,7 +14241,6 @@ Palabra:vape
 Palabra:vassals
 Palabra:vast
 Palabra:vdeo
-Palabra:ve
 Palabra:vegas
 Palabra:vegetable
 Palabra:vegetables
@@ -14667,7 +14262,6 @@ Palabra:vestment
 Palabra:veteran
 Palabra:veterans
 Palabra:vets
-Palabra:vi
 Palabra:via
 Palabra:vibrate
 Palabra:vibrates
@@ -14723,15 +14317,12 @@ Palabra:voluntary
 Palabra:volunteer
 Palabra:vote
 Palabra:voters
-Palabra:vs
 Palabra:vuln
 Palabra:vulnera
 Palabra:vulnerability
 Palabra:vulnerable
-Palabra:w
 Palabra:wHeREs
 Palabra:wTony
-Palabra:wa
 Palabra:waffle
 Palabra:wages
 Palabra:waggon
@@ -14802,7 +14393,6 @@ Palabra:way
 Palabra:wayI
 Palabra:ways
 Palabra:wayward
-Palabra:we
 Palabra:weak
 Palabra:weakening
 Palabra:weakness
@@ -14850,7 +14440,6 @@ Palabra:west
 Palabra:western
 Palabra:wet
 Palabra:weve
-Palabra:wh
 Palabra:whOS
 Palabra:whale
 Palabra:whales
@@ -14892,7 +14481,6 @@ Palabra:whooped
 Palabra:whos
 Palabra:whose
 Palabra:why
-Palabra:wi
 Palabra:wiWNpFXA
 Palabra:wicked
 Palabra:wide
@@ -14948,7 +14536,6 @@ Palabra:witnesses
 Palabra:witnessing
 Palabra:wmv
 Palabra:wnukes
-Palabra:wo
 Palabra:woah
 Palabra:woke
 Palabra:woken
@@ -15023,27 +14610,19 @@ Palabra:wrongsuddenly
 Palabra:wrongway
 Palabra:wrote
 Palabra:wrought
-Palabra:ws
 Palabra:wtf
 Palabra:wth
 Palabra:wthat
 Palabra:wweapons
-Palabra:x
-Palabra:xD
 Palabra:xekstrin
 Palabra:xfactor
 Palabra:xoxoxxxooo
 Palabra:xshanemichaelsx
-Palabra:xv
-Palabra:y
-Palabra:ya
 Palabra:yaaasss
 Palabra:yall
 Palabra:yard
 Palabra:yay
-Palabra:yc
 Palabra:yday
-Palabra:ye
 Palabra:yeah
 Palabra:year
 Palabra:years
@@ -15058,7 +14637,6 @@ Palabra:yhngsjlg
 Palabra:yield
 Palabra:ykelquiban
 Palabra:yknow
-Palabra:yo
 Palabra:yogurt
 Palabra:yolk
 Palabra:you

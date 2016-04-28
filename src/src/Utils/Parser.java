@@ -24,21 +24,23 @@ public class Parser {
 				line = line.replaceAll("#.*", "");						// Eliminamos "#x" del string
 				line = line.replaceAll("@.+", "");						// Eliminamos "@x" del string
 				line = line.replaceAll("http.+", "");					// Eliminamos enlaces
-				line = line.replaceAll("[\\[|\\]|=|%|+|$|\\-|/|;|)|(|.|,|*|!|?|{|}|~|'|:|_]+", "");		
+				line = line.replaceAll("[\\[|\\]|$|=|%|+|\\-|/|;|)|(|.|,|*|!|?|{|}|~|'|:|_]+", "");		
 																		// Eliminamos símbolos de puntuación del string
 				line = line.replaceAll("&amp", "");						// Eliminamos "&amp" del string
 				line = line.replaceAll("&gt", "");						// Eliminamos "&gt" del string
 				line = line.replaceAll("&lt", "");						// Eliminamos "&lt" del string
-				//line = line.replaceAll("[$]", "");					// Eliminamos "$$+" del string
-				line = line.replaceAll("\\d+.*", "");						// Eliminamos "&lt" del string
+				line = line.replaceAll("\\d+.*", "");					// Eliminamos cadenas de números del string
+				
 				
 				StringTokenizer tokensLine = new StringTokenizer(line);
 				while (tokensLine.hasMoreTokens()) {
 					String token = tokensLine.nextToken();
-					if (map.containsKey(token)) {				
-						map.put(token, map.get(token) + 1);
-					} else {
-						map.put(token, 1);
+					if (token.length() > 2) {							// Eliminamos palabras con menos de 3 letras.
+						if (map.containsKey(token)) {				
+							map.put(token, map.get(token) + 1);
+						} else {
+							map.put(token, 1);
+						}
 					}
 				}
 			}
