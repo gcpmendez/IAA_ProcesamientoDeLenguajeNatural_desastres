@@ -3,7 +3,7 @@
 
 # Práctica de IAA 
       
-Este práctica ha sido desarrollado en la asignatura de **Inteligencia Artificial Avanzada** del **_Grado en Ingeniería Informática_** de la **ULL**.
+Esta práctica ha sido desarrollada en la asignatura de **Inteligencia Artificial Avanzada** del **_Grado en Ingeniería Informática_** de la **ULL**.
 
 ### Miembros del grupo
 Rivero Martin, Kevin Miguel (alu0100789461@ull.edu.es)  
