@@ -10,9 +10,9 @@ import java.util.StringTokenizer;
 import java.util.TreeMap;
 
 public class Parser {
-	TreeMap<String, Integer> map = new TreeMap<String, Integer>();
+	private Filter filterWords = new Filter();
 	
-	public Parser(String route) {
+	public Parser(String route, TreeMap<String, Integer> map) {
 		try {
 			BufferedReader buf = new BufferedReader(new FileReader(route));
 			String line;
@@ -20,7 +20,7 @@ public class Parser {
 			PrintWriter pw = new PrintWriter(fichero);
 			
 			while ((line = buf.readLine()) != null) {
-				line = line.substring(6,line.length());					// Eliminamos "Texto:" del string
+				/*line = line.substring(6,line.length());					// Eliminamos "Texto:" del string
 				line = line.replaceAll("#.*", "");						// Eliminamos "#x" del string
 				line = line.replaceAll("@.+", "");						// Eliminamos "@x" del string
 				line = line.replaceAll("http.+", "");					// Eliminamos enlaces
@@ -29,8 +29,8 @@ public class Parser {
 				line = line.replaceAll("&amp", "");						// Eliminamos "&amp" del string
 				line = line.replaceAll("&gt", "");						// Eliminamos "&gt" del string
 				line = line.replaceAll("&lt", "");						// Eliminamos "&lt" del string
-				line = line.replaceAll("\\d+.*", "");					// Eliminamos cadenas de números del string
-				
+				line = line.replaceAll("\\d+.*", "");					// Eliminamos cadenas de números del string*/
+				line = filterWords.filterLine(line);
 				
 				StringTokenizer tokensLine = new StringTokenizer(line);
 				while (tokensLine.hasMoreTokens()) {
@@ -47,8 +47,9 @@ public class Parser {
 			
 			pw.println("Número de palabras:" + map.size());     // Número de palabras: <número entero>
 			Iterator<String> itr = map.keySet().iterator();
-			while (itr.hasNext()) {     						
-				pw.println("Palabra:" + (String) itr.next());	// Palabra: <cadena>
+			while (itr.hasNext()) {     
+				String word = itr.next();
+				pw.println("Palabra:" + word);	// Palabra: <cadena>
 			}
 			buf.close();
 			pw.close();
