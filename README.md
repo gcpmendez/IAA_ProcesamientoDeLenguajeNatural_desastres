@@ -11,5 +11,6 @@ Paz Méndez, Germán (alu0100503647@ull.edu.es)
 
 ## Descripción de la práctica: Procesamiento del lenguaje natural
 
-[Enunciado de la práctica](https://github.com/gcpmendez/IAA_Procesamiento-de-Lenguaje-Natural-Archivo/blob/master/PracticaPNL1.pdf "fichero")
+[Enunciado de la práctica](https://github.com/gcpmendez/IAA_Procesamiento-de-Lenguaje-Natural-Archivo/blob/master/PracticaPNL1.pdf "fichero") (Parte 1)  
 
+[Enunciado de la práctica](https://github.com/gcpmendez/IAA_Procesamiento-de-Lenguaje-Natural-Archivo/blob/master/PracticaPNL2.pdf "fichero") (Parte 2)  
