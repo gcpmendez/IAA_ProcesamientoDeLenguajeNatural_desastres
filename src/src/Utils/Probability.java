@@ -55,8 +55,8 @@ public class Probability {
 			Iterator<String> itr_2 = mapCopy.keySet().iterator();		
 			while (itr_2.hasNext()) {
 				String word = (String)itr_2.next();
-				double result = (double)(mapCopy.get(word) + 1 )/ (double)(Corpus.getN() + Corpus.getV() + 1);
-				pw.println("Palabra:" + word + " Frec:" + mapCopy.get(word) + " LogProb:" + String.format("%.7f", result) );
+				double result = Math.log((double)(mapCopy.get(word) + 1 )/ (double)(Corpus.getN() + Corpus.getV() + 1));
+				pw.println("Palabra:" + word + " Frec:" + mapCopy.get(word) + " LogProb:" + String.format("%.3f", result) );
 			}
 			
 			pw.close();

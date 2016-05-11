@@ -42,9 +42,9 @@ public class Corpus {
 	
 	/** CONSTRUCTS */
 	public Corpus(String route, TreeMap<String, Integer> map) {
-		this.setV(0);
-		this.setN(0);
-		this.setNumberTweets(0);
+		setV(0);
+		setN(0);
+		setNumberTweets(0);
 		
 		try {
 			BufferedReader buf = new BufferedReader(new FileReader(route));
@@ -65,9 +65,9 @@ public class Corpus {
 							map.put(token, 1);
 						}
 					}
-					this.N++;
+					N++;
 				}
-				this.NumberTweets++;
+				NumberTweets++;
 			}
 			
 			pw.println("Número de palabras:" + map.size());     // Número de palabras: <número entero>
