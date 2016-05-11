@@ -9,10 +9,33 @@ import java.util.Iterator;
 import java.util.StringTokenizer;
 import java.util.TreeMap;
 
-public class Parser {
+public class Corpus {
+	private static int N;		// Número total de palabras del corpus.
+	private static int V;		// Número total de palabras del vocabulario creado.
 	private Filter filterWords = new Filter();
 	
-	public Parser(String route, TreeMap<String, Integer> map) {
+	/** GETTERS AND SETTERS */
+	public static int getN() {
+		return N;
+	}
+
+	public void setN(int n) {
+		N = n;
+	}
+	
+	public static int getV() {
+		return V;
+	}
+
+	public void setV(int v) {
+		V = v;
+	}
+	
+	/** CONSTRUCTS */
+	public Corpus(String route, TreeMap<String, Integer> map) {
+		this.setV(0);
+		this.setN(0);
+		
 		try {
 			BufferedReader buf = new BufferedReader(new FileReader(route));
 			String line;
@@ -20,17 +43,7 @@ public class Parser {
 			PrintWriter pw = new PrintWriter(fichero);
 			
 			while ((line = buf.readLine()) != null) {
-				/*line = line.substring(6,line.length());					// Eliminamos "Texto:" del string
-				line = line.replaceAll("#.*", "");						// Eliminamos "#x" del string
-				line = line.replaceAll("@.+", "");						// Eliminamos "@x" del string
-				line = line.replaceAll("http.+", "");					// Eliminamos enlaces
-				line = line.replaceAll("[\\[|\\]|$|=|%|+|\\-|/|;|)|(|.|,|*|!|?|{|}|~|'|:|_]+", "");		
-																		// Eliminamos símbolos de puntuación del string
-				line = line.replaceAll("&amp", "");						// Eliminamos "&amp" del string
-				line = line.replaceAll("&gt", "");						// Eliminamos "&gt" del string
-				line = line.replaceAll("&lt", "");						// Eliminamos "&lt" del string
-				line = line.replaceAll("\\d+.*", "");					// Eliminamos cadenas de números del string*/
-				line = filterWords.filterLine(line);
+				line = filterWords.filterLine(line);					// Filtrado de palabras
 				
 				StringTokenizer tokensLine = new StringTokenizer(line);
 				while (tokensLine.hasMoreTokens()) {
@@ -42,10 +55,12 @@ public class Parser {
 							map.put(token, 1);
 						}
 					}
+					this.N++;
 				}
 			}
 			
 			pw.println("Número de palabras:" + map.size());     // Número de palabras: <número entero>
+			this.setV(map.size());
 			Iterator<String> itr = map.keySet().iterator();
 			while (itr.hasNext()) {     
 				String word = itr.next();
@@ -60,5 +75,9 @@ public class Parser {
 			e.printStackTrace();
 		}
 	}
+
+
+
+
 
 }

@@ -10,42 +10,50 @@ import java.util.Iterator;
 import java.util.StringTokenizer;
 import java.util.TreeMap;
 
-public class Learn {
+public class Probability {
 	private Filter filterWords = new Filter();
 	
-	public Learn(String corpusRel, String corpusNRel, TreeMap<String, Integer> map) {
+	/** CONSTRUCTOR */
+	public Probability(String corpusRel, String corpusNRel, TreeMap<String, Integer> map) {
 		ArrayList<String> wordsCorpusRel = new ArrayList<String>();
 		ArrayList<String> wordsCorpusN_Rel = new ArrayList<String>();
 		
 		TreeMap<String, Integer> mapCopy = new TreeMap<String, Integer>();
-		mapCopy.putAll(map);			// Copy original TreeMap
+		mapCopy.putAll(map);							// Copy original TreeMap
 		
-		readWords(corpusRel, wordsCorpusRel);		// Read words corpusrel.txt
+		// FILES -> ARRAY
+		readWords(corpusRel, wordsCorpusRel);			// Read words corpusrel.txt
 		readWords(corpusNRel, wordsCorpusN_Rel);		// Read words corpusnrel.txt
-		writeFiles("aprendizajerel.txt", mapCopy, wordsCorpusRel);	// Write aprendizajerel.txt
+		
+		
+		writeFiles("aprendizajerel.txt", mapCopy, wordsCorpusRel);		// Write aprendizajerel.txt
 		writeFiles("aprendizajenrel.txt", mapCopy, wordsCorpusN_Rel);	// Write aprendizajenrel.txt
 	}
 	
 	public void writeFiles(String file, TreeMap<String, Integer> mapCopy, ArrayList<String> array) {
-		Iterator<String> itr = mapCopy.keySet().iterator();   // Set all words to 0 times
+		// Set all words to 0 times
+		Iterator<String> itr = mapCopy.keySet().iterator();    
 		while (itr.hasNext()) {
 			String word = (String)itr.next();
 			mapCopy.put(word, 0);
 		}
 		
-		for (int i = 0; i < array.size(); i++) {		// Count occurrences
+		// Count occurrences
+		for (int i = 0; i < array.size(); i++) {				
 			String word = array.get(i);
 			mapCopy.put(word, mapCopy.get(word) + 1);
 		}
 		
+		// Write words in the file
 		try {
 			FileWriter fichero = new FileWriter(file);
 			PrintWriter pw = new PrintWriter(fichero);
 			
-			Iterator<String> itr_2 = mapCopy.keySet().iterator();		// Write words in the file
+			Iterator<String> itr_2 = mapCopy.keySet().iterator();		
 			while (itr_2.hasNext()) {
 				String word = (String)itr_2.next();
-				pw.println("Palabra:" + word + " Frec:" + mapCopy.get(word) + " LogProb:");
+				double result = (double)(mapCopy.get(word) + 1 )/ (double)(Corpus.getN() + Corpus.getV() + 1);
+				pw.println("Palabra:" + word + " Frec:" + mapCopy.get(word) + " LogProb:" + String.format("%.7f", result) );
 			}
 			
 			pw.close();
@@ -61,16 +69,6 @@ public class Learn {
 			String line;
 			
 			while ((line = buf.readLine()) != null) {
-				/*line = line.substring(6,line.length());					// Eliminamos "Texto:" del string
-				line = line.replaceAll("#.*", "");						// Eliminamos "#x" del string
-				line = line.replaceAll("@.+", "");						// Eliminamos "@x" del string
-				line = line.replaceAll("http.+", "");					// Eliminamos enlaces
-				line = line.replaceAll("[\\[|\\]|$|=|%|+|\\-|/|;|)|(|.|,|*|!|?|{|}|~|'|:|_]+", "");		
-																		// Eliminamos símbolos de puntuación del string
-				line = line.replaceAll("&amp", "");						// Eliminamos "&amp" del string
-				line = line.replaceAll("&gt", "");						// Eliminamos "&gt" del string
-				line = line.replaceAll("&lt", "");						// Eliminamos "&lt" del string
-				line = line.replaceAll("\\d+.*", "");					// Eliminamos cadenas de números del string*/
 				line = filterWords.filterLine(line);
 				
 				StringTokenizer tokensLine = new StringTokenizer(line);
