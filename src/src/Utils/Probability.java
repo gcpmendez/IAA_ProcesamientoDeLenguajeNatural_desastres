@@ -49,6 +49,9 @@ public class Probability {
 			FileWriter fichero = new FileWriter(file);
 			PrintWriter pw = new PrintWriter(fichero);
 			
+			pw.println("Número de documentos del corpus: " + Corpus.getNumberTweets());
+			pw.println("Número de palabras del corpus: " + Corpus.getN());
+			
 			Iterator<String> itr_2 = mapCopy.keySet().iterator();		
 			while (itr_2.hasNext()) {
 				String word = (String)itr_2.next();

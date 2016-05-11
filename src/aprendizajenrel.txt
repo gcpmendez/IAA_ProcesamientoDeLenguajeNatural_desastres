@@ -1,3 +1,5 @@
+Número de documentos del corpus: 10806
+Número de palabras del corpus: 81507
 Palabra:aaarrrgghhh Frec:0 LogProb:0,0000108
 Palabra:aan Frec:0 LogProb:0,0000108
 Palabra:aannnnd Frec:1 LogProb:0,0000215

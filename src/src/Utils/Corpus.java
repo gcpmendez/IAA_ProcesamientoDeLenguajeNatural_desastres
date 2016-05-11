@@ -10,8 +10,9 @@ import java.util.StringTokenizer;
 import java.util.TreeMap;
 
 public class Corpus {
-	private static int N;		// Número total de palabras del corpus.
-	private static int V;		// Número total de palabras del vocabulario creado.
+	private static int N;			// Número total de palabras del corpus.
+	private static int V;			// Número total de palabras del vocabulario creado.
+	private static int NumberTweets; // Número total de tweets.
 	private Filter filterWords = new Filter();
 	
 	/** GETTERS AND SETTERS */
@@ -31,10 +32,19 @@ public class Corpus {
 		V = v;
 	}
 	
+	public static int getNumberTweets() {
+		return NumberTweets;
+	}
+
+	public static void setNumberTweets(int numberTweets) {
+		NumberTweets = numberTweets;
+	}
+	
 	/** CONSTRUCTS */
 	public Corpus(String route, TreeMap<String, Integer> map) {
 		this.setV(0);
 		this.setN(0);
+		this.setNumberTweets(0);
 		
 		try {
 			BufferedReader buf = new BufferedReader(new FileReader(route));
@@ -57,6 +67,7 @@ public class Corpus {
 					}
 					this.N++;
 				}
+				this.NumberTweets++;
 			}
 			
 			pw.println("Número de palabras:" + map.size());     // Número de palabras: <número entero>
@@ -75,6 +86,8 @@ public class Corpus {
 			e.printStackTrace();
 		}
 	}
+
+
 
 
 
