@@ -25,13 +25,12 @@ public class Classify {
 		
 		try {
 			BufferedReader buf = new BufferedReader(new FileReader(inputFile));
-			String line;
+			String line, line2;
 			FileWriter fichero =  new FileWriter(nameOutput);
 			PrintWriter pw = new PrintWriter(fichero);
-			String line2;
 			
 			while ((line = buf.readLine()) != null) {
-				line2 = buf.readLine();
+				line2 = line.substring(6,line.length());	
 				line = filterWords.filterLine(line);					// Filtrado de palabras
 				valorRel = 0.0;
 				valorNRel = 0.0;
