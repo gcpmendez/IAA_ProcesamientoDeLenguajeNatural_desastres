@@ -6,7 +6,6 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.util.Iterator;
 import java.util.StringTokenizer;
 import java.util.TreeMap;
 
@@ -15,38 +14,56 @@ public class Classify {
 	TreeMap<String, Double> aprendizajeRel = new TreeMap<String, Double>();
 	TreeMap<String, Double> aprendizajeNRel = new TreeMap<String, Double>();
 	
-	public Classify(String fileAprendizajeRel, String fileAprendizajeNrel/*, String inputFile, String nameOutput*/) {
+	public Classify(String fileAprendizajeRel, String fileAprendizajeNrel, String inputFile, String nameOutput) throws IOException {
+		// Cargamos los TreeMap con los ficheros a utilizar
 		createAprendizRel(fileAprendizajeRel, aprendizajeRel);
 		createAprendizRel(fileAprendizajeNrel, aprendizajeNRel);
-		/*try {
+		
+		// Definimos variables a comparar con la suma de los logaritmos calculados
+		Double valorRel;
+		Double valorNRel;
+		
+		try {
 			BufferedReader buf = new BufferedReader(new FileReader(inputFile));
 			String line;
 			FileWriter fichero =  new FileWriter(nameOutput);
 			PrintWriter pw = new PrintWriter(fichero);
+			String line2;
 			
 			while ((line = buf.readLine()) != null) {
+				line2 = buf.readLine();
 				line = filterWords.filterLine(line);					// Filtrado de palabras
+				valorRel = 0.0;
+				valorNRel = 0.0;
 				
 				StringTokenizer tokensLine = new StringTokenizer(line);
 				while (tokensLine.hasMoreTokens()) {
 					String token = tokensLine.nextToken();
 					if (token.length() > 2) {							// Eliminamos palabras con menos de 3 letras.
-						if (map.containsKey(token)) {				
-							map.put(token, map.get(token) + 1);
-						} else {
-							map.put(token, 1);
-						}
+						if (aprendizajeRel.containsKey(token)) {			
+							valorRel = valorRel + aprendizajeRel.get(token);
+						} 
+						if (aprendizajeNRel.containsKey(token)) {			
+							valorNRel = valorNRel + aprendizajeNRel.get(token);
+						} 
 					}
-					N++;
 				}
-				NumberTweets++;
+				if (valorRel >= valorNRel ) {			
+					pw.println("Clase: rel Texto: " + line2 );
+					
+				} else {
+					pw.println("Clase: nrel Texto: " + line2);
+				}
 			}
+			pw.close();
 		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-		}*/
+		}
 	}
 	
+	
+
 	private void createAprendizRel(String file, TreeMap<String, Double> tree) {
 		try {
 			BufferedReader buf = new BufferedReader(new FileReader(file));
