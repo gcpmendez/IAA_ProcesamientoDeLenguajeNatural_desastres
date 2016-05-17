@@ -1,5 +1,4 @@
 package Main;
-import java.io.IOException;
 import java.util.TreeMap;
 
 import Utils.Probability;
@@ -15,17 +14,15 @@ public class Main {
 	 * 2 - files/corpusnrel.txt
 	 * 3 - aprendizajerel.txt
 	 * 4 - aprendizajenrel.txt
-	 * 5 - archivoAnalizar.txt
-	 * @throws IOException 
 	 */
-	public static void main(String[] args) throws IOException {
+	public static void main(String[] args) {
 		TreeMap<String, Integer> map = new TreeMap<String, Integer>();
 		
 		/** Creación corpus */
-		//new Corpus(args[0], map);
+		new Corpus(args[0], map);
 		
 		/** Estimación de probabilidades */
-		//new Probability(args[1], args[2], map);
+		new Probability(args[1], args[2], map);
 		
 		/** Clasificacion */
 		new Classify(args[3], args[4], args[0], "clasificacion.txt");
