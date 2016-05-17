@@ -41,10 +41,14 @@ public class Classify {
 					if (token.length() > 2) {							// Eliminamos palabras con menos de 3 letras.
 						if (aprendizajeRel.containsKey(token)) {			
 							valorRel = valorRel + aprendizajeRel.get(token);
-						} 
+						} else {
+							valorRel = valorRel + Math.log((double)1/ (double)(aprendizajeRel.size() * Corpus.getV() + 1));
+						}
 						if (aprendizajeNRel.containsKey(token)) {			
 							valorNRel = valorNRel + aprendizajeNRel.get(token);
-						} 
+						} else {
+							valorRel = valorRel + Math.log((double)1/ (double)(aprendizajeNRel.size() * Corpus.getV() + 1));
+						}
 					}
 				}
 				if (valorRel >= valorNRel ) {			
