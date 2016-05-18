@@ -2,6 +2,7 @@ package Main;
 import java.util.TreeMap;
 
 import Utils.Probability;
+import Utils.Success;
 import Utils.Classify;
 import Utils.Corpus;
 
@@ -26,6 +27,9 @@ public class Main {
 		
 		/** Clasificacion */
 		new Classify(args[3], args[4], args[0], "clasificacion.txt");
+		
+		/** Calculo del exito */
+		new Success();
 	}
 
 }

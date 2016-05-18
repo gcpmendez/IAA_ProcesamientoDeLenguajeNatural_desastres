@@ -34,23 +34,24 @@ public class Classify {
 				line = line.substring(6,line.length());
 				valorRel = 0.0;
 				valorNRel = 0.0;
-				
+
 				StringTokenizer tokensLine = new StringTokenizer(line);
 				while (tokensLine.hasMoreTokens()) {
 					String token = tokensLine.nextToken();
-					if (token.length() > 2) {							// Eliminamos palabras con menos de 3 letras.
-						if (aprendizajeRel.containsKey(token)) {			
-							valorRel += aprendizajeRel.get(token);
-						} else {
-							valorRel += Math.log((double)1/ (double)(aprendizajeRel.size() + getNumberWordsRel() + 1));
-						}
-						if (aprendizajeNRel.containsKey(token)) {			
-							valorNRel += aprendizajeNRel.get(token);
-						} else {
-							valorNRel += Math.log((double)1/ (double)(aprendizajeNRel.size() + getNumberWordsNrel() + 1));
-						}
+					if (aprendizajeRel.containsKey(token)) {			
+						valorRel += aprendizajeRel.get(token);
+					} else {
+						valorRel += Math.log((double)1/ (double)(aprendizajeRel.size() + getNumberWordsRel() + 1));
+					}
+					if (aprendizajeNRel.containsKey(token)) {			
+						valorNRel += aprendizajeNRel.get(token);
+					} else {
+						valorNRel += Math.log((double)1/ (double)(aprendizajeNRel.size() + getNumberWordsNrel() + 1));
 					}
 				}
+				valorRel += Math.log((double)4654 / (double) 10806);
+				valorNRel += Math.log((double)6152 / (double) 10806);
+				
 				if (valorRel > valorNRel ) {			
 					pw.println("Clase: rel Texto: " + line);
 					
